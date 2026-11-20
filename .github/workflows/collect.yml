@@ -2,9 +2,9 @@ name: 资源雷达采集
 
 on:
   schedule:
-    # 每 2 小时运行一次（UTC 时间）。免费额度安全区，约 360 分钟/月
+    # 每 2 小时运行一次（UTC）。免费额度安全区，约 360 分钟/月
     - cron: "0 */2 * * *"
-  workflow_dispatch: # 支持手动触发
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -38,14 +38,7 @@ jobs:
           echo "=== 产出文件 ==="
           ls -lh docs/data/
           echo "=== 数据摘要 ==="
-          node -e "
-            const d = require('./docs/data/data.json');
-            console.log('生成时间:', d.generatedAt);
-            console.log('总条数:', d.total);
-            console.log('新增:', d.newCount);
-            console.log('失败源:', d.failed.length);
-            for (const [k,v] of Object.entries(d.stats)) console.log('  ' + k + ': ' + v);
-          "
+          node -e "const d=require('./docs/data/data.json');console.log('生成时间:',d.generatedAt);console.log('总条数:',d.total);console.log('新增:',d.newCount);console.log('失败源:',d.failed.length);for(const[k,v]of Object.entries(d.stats))console.log('  '+k+': '+v);"
 
       - name: 提交数据
         run: |
