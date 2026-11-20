@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 低版本兼容图标（API 25 及以下） -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/ic_launcher_bg" />
+    <item android:drawable="@drawable/ic_launcher_fg" />
+</layer-list>
