@@ -1,0 +1,16 @@
+{
+  "name": "freebie-radar-mobile-collector",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "资源雷达移动端采集器：在 GitHub Actions 上定时抓取，输出 data.json 供手机端拉取",
+  "engines": {
+    "node": ">=22.5"
+  },
+  "scripts": {
+    "collect": "node collect.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.3"
+  }
+}
