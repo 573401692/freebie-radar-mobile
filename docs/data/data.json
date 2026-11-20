@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-20T02:42:28.342Z",
-  "startedAt": "2026-11-20T02:42:02.703Z",
+  "generatedAt": "2026-11-20T03:11:16.886Z",
+  "startedAt": "2026-11-20T03:11:14.936Z",
   "total": 167,
-  "newCount": 167,
+  "newCount": 20,
   "stats": {
     "epic": 2,
     "steam": 0,
@@ -2676,340 +2676,340 @@
       ]
     },
     {
-      "id": "h1nyjrdt",
+      "id": "h1nz3m79",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067152-1",
-      "title": "Dots向Team stardard席位开放测试了",
-      "summary": "RT，这次测试竟然轮到我了，不过我更想要Muse邮箱，现在生态位被Muse占了，不想花时间调试Dots了",
+      "url": "https://www.nodeseek.com/post-1067255-1",
+      "title": "muse领取30亿",
+      "summary": "领取30亿的机器人又有了，用我的邀请码进去可以领取30亿，也可以换账号，但是这个机器人的账号似乎不太行，换了一个刚进去就给我解绑了相当于死了，所以建议只换30亿token，我另一个帖子发的机器人的账号还可以，都可以打电话https://t.me/masktai_bot?start=6_8kh-gDDYtsObPx",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:40:22 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:11:02 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyjqn4",
+      "id": "h1nz3kpv",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067151-1",
-      "title": "[NQ]raksmart1.81双ISP测试留档",
-      "summary": "💻基本信息++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[1m硬件质量体检报告：[36m204.202.*.*[0m[4mhttps://github.com/xykt/HardwareQuality",
+      "url": "https://www.nodeseek.com/post-1067253-1",
+      "title": "ai运维服务器用什么工具好啊？",
+      "summary": "最近漏洞有点多，又不想去维护，有没有什么工具方案能够弄的啊",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:40:17 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:10:19 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyjpwf",
+      "id": "h1nz3jz6",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067150-1",
-      "title": "[gpt模型使用感受]6.2astra体验下来不如6astra",
-      "summary": "昨天重度使用了6.2和6astra，对比着来，体感下来6.2astra似乎便宜了不少，感觉只有6astra价格的一半了，但是模型能力确实不如6astra了，而且要命的是道德感变高了，楼主是研究无人机集群编队的，结果昨天有些实验6.2astra跟我说军事用途无法帮我完成，太难绷了。",
+      "url": "https://www.nodeseek.com/post-1067252-1",
+      "title": "来论坛500多天了，还不会套落地，麻烦各位大佬指点一下",
+      "summary": "rt",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:39:47 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:10:14 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyj83r",
+      "id": "h1nz3j8h",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067147-1",
-      "title": "哪里有类似链铺这种的有x号卖呀",
+      "url": "https://www.nodeseek.com/post-1067251-1",
+      "title": "开了gemini20x，100刀赠金能用来买gcp的落地机器吗？ip质量怎么样",
+      "summary": "开了gemini20x，100刀赠金能用来买gcp的落地机器吗？ip质量怎么样，我有dmit的出海线路，想找个干净的ip自己用，这个赠金这么用合适不，还有没有其他用法",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Fri, 20 Nov 2026 03:10:11 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1nz3ihs",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1067250-1",
+      "title": "最近有什么LXC，NAT漏洞么",
+      "summary": "我的一个LXC吃灰很久了，里面就几个节点，昨天秃然被挖矿了，这也太奇怪了。独角鲸的nat也莫名奇妙连不上ssh,但是面板看运行没问题呀（莫非不是漏洞，车主把公网访问断了，应该不会这么无聊吧）有18CM的大佬知道什么消息不",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Fri, 20 Nov 2026 03:09:43 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1nz326i",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1067249-1",
+      "title": "【AaITR】准备到期可出可蹲",
+      "summary": "美国Verizon静态家宽到期日期2026-11-27急用的可以剩余价值原邮出，或者大家蹲一蹲哈哈哈，我到期就放生了，预约的应该能赶上",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Fri, 20 Nov 2026 03:09:37 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1nz31ft",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1067248-1",
+      "title": "黄金的走势怎么看？",
+      "summary": "一直暴跌，佬们都是怎么操作的？",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Fri, 20 Nov 2026 03:09:29 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1nz30p4",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1067247-1",
+      "title": "60出vidhub全端永久兑换码 45出hamhub终身Pro兑换码",
+      "summary": "rt60出vidhub全端永久兑换码45出hamhub终身Pro兑换码有需要的私信口令红包",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Fri, 20 Nov 2026 03:09:04 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1nz2zyf",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1067246-1",
+      "title": "claude code和codex这两个Agent那个好用？",
+      "summary": "claudecode和codex这两个Agent那个写代码好用？我目前是在用codex...听说Claudecode更好用？claudecode有computer-use吗？",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Fri, 20 Nov 2026 03:08:45 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1nz2z7q",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1067245-1",
+      "title": "丢一个novaxns邀请码",
       "summary": "",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:38:26 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:07:13 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyj7d2",
+      "id": "h1nz2yh1",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067146-1",
-      "title": "收一个115网盘会员",
-      "summary": "不要永久的，太贵啦，目前官方价格是295,2年vip，30T想收比官方的性价比合适的，时间比官方短的可，可以留言可以私信哈，谢谢",
+      "url": "https://www.nodeseek.com/post-1067244-1",
+      "title": "谷歌账号验证器给的验证码不对了 还有机会找回这个账号吗",
+      "summary": "谷歌账号只有手机号和密码了，辅助邮箱和两步验证的验证器都不是自己的了这种情况下谷歌账号还能整回来吗",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:38:21 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:06:51 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyj6md",
+      "id": "h1nz2xqc",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067145-1",
-      "title": "打算用谷歌的新模型，有车队吗，想拼一下",
-      "summary": "我平时用的不多，主要是对话吧",
+      "url": "https://www.nodeseek.com/post-1067243-1",
+      "title": "白开心了，关于cloudnium（牛马云）的账单",
+      "summary": "日常吐槽：刚续费才发现我这款不是常见的0.49/0.54/月,而是0.5/月还以为是bug机，以为自己中奖了，才查了下论坛记录和AI结果得出：不是Bug机器，这是Cloudnium官方此前发放的循环折扣码活动机（通常为2C2G配置，洛杉矶LA或纽约NY节点）。这批机器的价格变动和付款机制有以下几个特点：为什么是$0",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:38:05 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:06:30 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyj5vo",
+      "id": "h1nz2wzn",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067144-1",
-      "title": "今天20号了你们都恢复了吗？能不能开机了？",
-      "summary": "今天20号了你们都恢复了吗？能不能开机了？",
+      "url": "https://www.nodeseek.com/post-1067242-1",
+      "title": "收MK沪日IPLC",
+      "summary": "套餐太多，还请卖家带价",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:37:45 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:05:45 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyj54z",
+      "id": "h1nz2w8y",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067143-1",
-      "title": "好奇ks-le-6 ca区什么价格了",
-      "summary": "rt，合适的话想要一台",
+      "url": "https://www.nodeseek.com/post-1067241-1",
+      "title": "PHP 修复 7 个严重漏洞，宝塔已同步更新",
+      "summary": "11月19日，PHP官方发布新一轮安全更新，共修复7个严重漏洞和4个高危漏洞。其中7个严重漏洞的CVSS4.0评分均为9.2，部分漏洞在特定条件下可能导致远程代码执行。我们从昨天开始持续关注PHP官方的发布情况，在新版本发布后进行了打包、测试和更新，目前宝塔已上线以下PHP安全修复版本：PHP8.2.36PHP8.",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:37:41 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:05:13 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyj4ea",
+      "id": "h1nz2vi9",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067142-1",
-      "title": "看到有人收腾讯无忧套餐，它到底是什么配置带宽啊",
-      "summary": "看到有人收腾讯无忧套餐，它到底是什么配置带宽啊，是50M的带宽还是200的，多少钱一年的",
+      "url": "https://www.nodeseek.com/post-1067240-1",
+      "title": "gemini pro jp学生 30R那档和50多的那档, 区别就在youtube吗?",
+      "summary": "反重力额度有没有区别?",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:37:37 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:05:05 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyj3nl",
+      "id": "h1nz2f6z",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067141-1",
-      "title": "最近 Gemini Ultra 5x / 20x 好火，昨天白嫖了半天确实很强！",
-      "summary": "我之前用GPT做的微信小游戏，质感玩法一直很差，白嫖了半天GeminiUltra后给我的小游戏直接带来了一个质的提升，就是同样的提示词，Gemini做的事情更多，我要放弃GPT了哈哈",
+      "url": "https://www.nodeseek.com/post-1067239-1",
+      "title": "【开源自荐】 底层Rust驱动 性能夯到爆的 DSH 搜索插件",
+      "summary": "如果你也经常在dsh里接入第三方自定义模型来使用，不妨为你的第三方模型装上该插件，为它挂上一台性能强悍的搜索引擎。Numberone！——DeepSeekHarness生态里「夯到爆的多引擎自动回退联网搜索插件」为什么开发这个插件起因是一笔莫名其妙的账单。我在DSH里把聊天换成第三方模型后，发现DeepSeek官方",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:37:34 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:04:42 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyj2ww",
+      "id": "h1nz2ega",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067140-1",
-      "title": "【被骗】买 claude 解封号被骗，大家还是提防一点吧",
-      "summary": "前两天发了个购买claude解封号的帖子，骗子直接tg联系了我。让他截图了下邮件就准备交易了，一开始想的是走鱼交易，他说是违禁品，就说接受200定金，然后我也没多想毕竟之前的交易都很顺利（很久之前了，前两年买鸡时），就把钱先转过去了，没想到转账后直接被拉黑了tg状态直接从在线变为了很久没上线（事后搜索才发现很久没上",
+      "url": "https://www.nodeseek.com/post-1067238-1",
+      "title": "60收一个日区学生Gemini Pro成品号",
+      "summary": "",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:37:24 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:04:21 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyimlm",
+      "id": "h1nz2dpl",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067139-1",
-      "title": "rn现在纯路边一条了吧",
-      "summary": "rn现在几乎纯路边了1自己机房现在就是ccs的，结果还有脸20多u一年，ccs差不多配置都没有20多u一年。2dc2机房跑路而且我也不清楚为什么很多人即使推其他使用ccs机房的下游也不直接推ccs？难道是只会无脑照抄？",
+      "url": "https://www.nodeseek.com/post-1067237-1",
+      "title": "最近的美西怎么了，移动拉了么",
+      "summary": "单线程测速报告链接：https://tcpquality.ibsgss.uk/r/MAgWszP0yz手上的vmiss-tri和dmit-pro移动用起来都差不多",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:37:22 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:04:17 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyilux",
+      "id": "h1nz2cyw",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067138-1",
-      "title": "完整TG群截图最新通知：RN今年黑五应该不搞黑五闪购了",
-      "summary": "这是完整截图：意思今天凌晨的活动已经是最大诚意，而且数量还不多不过觉着真到了黑五当天，可能也会拿出来几款热闹下，数量不会多",
+      "url": "https://www.nodeseek.com/post-1067236-1",
+      "title": "【收】zouter 老款hk",
+      "summary": "出的老板bb我",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:36:59 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:04:15 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyikdj",
+      "id": "h1nz2c87",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067136-1",
-      "title": "有关Kraken的问题，各位英区、德区Krak/Kraken用户进，送鸡腿",
-      "summary": "英区、德区和国区Kraken的签约主体都是不一样，英区的签约主体是PaywardLtd，是受英国FCA监管的，出金到iFAST是完全无风险、合规的，德区的签约主体是PaywardEuropeSolutionsLimited（PESL），受爱尔兰央行CBI监管，出金到iFAST也是几乎无风险，但是国区的签约主体是Pa",
+      "url": "https://www.nodeseek.com/post-1067235-1",
+      "title": "[NQ] 干杯云 美国加州AT&T商业宽带PRO · 网关升级版",
+      "summary": "💻基本信息++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[1m硬件质量体检报告：[36m107.208.*.*[0m[4mhttps://github.com/xykt/HardwareQuality",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:35:49 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "h1nyijmu",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067135-1",
-      "title": "UU远程之后下一个是？",
-      "summary": "UU远程发布VIP服务，基础远控保持「免费」但只有1080p30Hz了https://uuyc.163.com/blog/20261118-dwdsa.html历史竟然是如此的相似，从向日葵到todesk，再到现在的UU远程，下一个会杀出谁呢",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:35:18 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "h1nyiiw5",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067134-1",
-      "title": "【TQ】CSTServer CVM EX HKX2 4 折月付$2.69 USD",
-      "summary": "IPv4回程IPv4大包回程UDP回程单线程测速报告链接：https://tcpquality.ibsgss.uk/r/WVOwHRAJxO",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:33:59 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "h1nyii5g",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067133-1",
-      "title": "（出）10元出 zou jp",
-      "summary": "1核1G、15GB硬盘，月流量1TB，剩820GB，续费28元/月。｜216段｜12月5日到期",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:33:01 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "h1nyiher",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067132-1",
-      "title": "来自泰国的ais运营商esim卡",
-      "summary": "来自泰国ais的esim保号2块一个月可联系官方49泰珠保号一年≈10cny可以注册满血的泰国line秒来验证码出售价80cny已经完成kyctg@gjjjo",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:32:22 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "h1nyifxd",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067130-1",
-      "title": "ksle6切小鸡出售咋样，有没有佬分析下",
-      "summary": "4c8g200g这种配置每月20r怎么样，2c4g100g每月10r,默认nat加ipv4的话多16r?",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:32:03 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "h1nyhzm3",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067129-1",
-      "title": "上学时随便注册了几个github账号竟然能被找回",
-      "summary": "又多了几个快十年的老号了，稳的一匹",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:31:56 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:03:56 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
@@ -3018,3001 +3018,340 @@
   ],
   "newItems": [
     {
-      "id": "f0a333114190492c84a9decd2bb43875",
-      "source": "epic",
-      "sourceName": "Epic Games",
-      "url": "https://store.epicgames.com/zh-CN/p/3435439bd89847608f5299fb297d1466",
-      "title": "【即将免费】Bread and Fred",
-      "summary": "Grab your best bud for help in this new co-op challenge to help two adorable penguins, Bread and Fred, reach the top of the snowy summit. Time your jumps, cling to walls and swing across gaps to see how far you can make it before you tumble all the way back down the mountain. · 原价 ¥47.00",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg",
-      "expiresAt": "2026-12-03T16:00:00.000Z",
-      "publishedAt": "2026-11-26T16:00:00.000Z",
-      "tags": [
-        "epic",
-        "即将免费"
-      ]
-    },
-    {
-      "id": "1f9a12b06b4f437790b6913ad136a08c",
-      "source": "epic",
-      "sourceName": "Epic Games",
-      "url": "https://store.epicgames.com/zh-CN/p/2fd257a6cd80405a833f9004ff07993a",
-      "title": "【本周免费】Mark of the Deep",
-      "summary": "深渊之印是一款史诗般的海盗冒险游戏，拥有强烈的叙事性，并融合了广受好评的银河恶魔城游戏与魂系游戏的惊险元素。以海盗刘琦的身份踏上旅程，探索受诅咒岛屿的奥秘，寻找失踪的海盗船员！ · 原价 ¥55.00",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png",
-      "expiresAt": "2026-11-26T16:00:00.000Z",
-      "publishedAt": "2026-11-19T16:00:00.000Z",
-      "tags": [
-        "epic",
-        "当前免费"
-      ]
-    },
-    {
-      "id": "3855",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/world-of-warships-black-friday-giveaway",
-      "title": "World of Warships: Black Friday Giveaway",
-      "summary": "New World of Warships players can unlock $300 worth of in-game rewards, including a Premium battleship, Premium Account time, Supercontainers and more.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6aff32359a14c.jpg",
-      "publishedAt": "2026-11-19 12:30:29",
-      "expiresAt": "2026-12-04 23:59:00",
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "3853",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/mark-of-the-deep-epic-games-giveaway",
-      "title": "Mark of the Deep (Epic Games) Giveaway",
-      "summary": "Score Mark of the Deep for free on Epic Games Store! Mark of the Deep is a pirate-themed adventure game with elements from Metroidvania and Souls-Like games.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6aff1d0e4942d.jpg",
-      "publishedAt": "2026-11-19 11:00:14",
-      "expiresAt": "2026-11-26 23:59:00",
-      "tags": [
-        "gamerpower",
-        "PC, Epic Games Store"
-      ]
-    },
-    {
-      "id": "3852",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/contractor-the-clean-up-part-2-epic-games-giveaway",
-      "title": "Contractor: The Clean Up Part 2 (Epic Games) Giveaway",
-      "summary": "Score Contractor: The Clean Up Part 2 for free via Epic Games Store! Take control of a powerful loader and clear construction sites filled with rubble, broken concrete, and debris.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6afc554f06761.jpg",
-      "publishedAt": "2026-11-17 08:23:27",
-      "expiresAt": "2026-12-02 23:59:00",
-      "tags": [
-        "gamerpower",
-        "PC, Epic Games Store"
-      ]
-    },
-    {
-      "id": "3849",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/kettlebell-inferno-hotel-afterimage-effect-key-giveaway",
-      "title": "Kettlebell: Inferno Hotel Afterimage Effect Key Giveaway",
-      "summary": "Claim your free Kettlebell: Inferno Hotel Afterimage Effect Key! Please note that this giveaway requires 10 ARP (Arena Reward Points) to claim a key.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6af362798d714.jpg",
-      "publishedAt": "2026-11-10 13:29:13",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "1546",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/dead-by-daylight-100k-bloodpoints-key-giveaway",
-      "title": "Dead by Daylight 100k Bloodpoints Key Giveaway",
-      "summary": "Grab your free Dead by Daylight 100k Bloodpoints Key and unlock 100.000 Bloodpoints (in-game currency)! Please note that 10 ARP (Arena Rewards Points) are required to claim this key.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/62ab8480b0e8f.jpg",
-      "publishedAt": "2026-10-30 14:26:20",
-      "expiresAt": "2026-12-31 23:59:59",
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "3346",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/my-darkest-witch-pc-giveaway",
-      "title": "My Darkest Witch (IndieGala) Giveaway",
-      "summary": "Score My Darkest Witch for free on IndieGala! My Darkest Witch is a 2d survival arena game with endless waves of enemies.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/69061997da81d.jpg",
-      "publishedAt": "2026-10-30 13:33:46",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, DRM-Free"
-      ]
-    },
-    {
-      "id": "3830",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/free-itch-io-games-bundle",
-      "title": "Free itch.io Games Bundle",
-      "summary": "Claim this bundle (worth $384) and download 116 games for free on itch.io! No strings attached!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6ae264e50edb5.jpg",
-      "publishedAt": "2026-10-28 17:11:01",
-      "expiresAt": "2026-11-22 23:59:00",
-      "tags": [
-        "gamerpower",
-        "PC, Itch.io, DRM-Free"
-      ]
-    },
-    {
-      "id": "3340",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/ancient-evil-pc-giveaway",
-      "title": "ANCIENT EVIL (IndieGala) Giveaway",
-      "summary": "Download ANCIENT EVIL for free via IndieGala! Ancient Evil is a 2d tactical RPG with puzzle elements. Don´t miss it!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/69024dade7c16.jpg",
-      "publishedAt": "2026-10-26 11:04:23",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, DRM-Free"
-      ]
-    },
-    {
-      "id": "3331",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/last-room-pc-giveaway",
-      "title": "Last Room (IndieGala) Giveaway",
-      "summary": "Dive into a world of puzzles today! Download Last Room for free on IndieGala! Last Room is a 3d puzzle game with interactive environments, medieval mysteries and secret levels.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/68f91bd81c328.jpg",
-      "publishedAt": "2026-10-19 11:58:10",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, DRM-Free"
-      ]
-    },
-    {
-      "id": "3819",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/fathom-reach-playtest-steam-key-giveaway",
-      "title": "Fathom Reach Playtest Steam Key Giveaway",
-      "summary": "Claim your free Fathom Reach Playtest Steam Key and join the playtest!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6ad23bbd018d3.jpg",
-      "publishedAt": "2026-10-16 10:59:09",
-      "expiresAt": "2026-11-03 23:59:00",
-      "tags": [
-        "gamerpower",
-        "PC, Steam"
-      ]
-    },
-    {
-      "id": "3803",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/everwind-aw-51-pack-steam-key-giveaway",
-      "title": "Everwind AW-51 Pack Steam Key Giveaway",
-      "summary": "Claim your free Everwind AW-51 Pack Steam Key! Please note that this DLC giveaway requires the base game and 10 ARP (Arena Reward Points) to claim a key. Fortunately, you can earn ARP for free every d…",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6ac50956b23c1.jpg",
-      "publishedAt": "2026-10-06 10:44:38",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Steam"
-      ]
-    },
-    {
-      "id": "3802",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/scallywags-playtest-steam-key-giveaway",
-      "title": "Scallywags Playtest Steam Key Giveaway",
-      "summary": "Claim your free Scallywags Playtest Steam Key and join the early access!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6ac3f2b80d4cd.jpg",
-      "publishedAt": "2026-10-05 14:55:52",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Steam"
-      ]
-    },
-    {
-      "id": "3793",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/the-witcher-3-wild-hunt-remastered-scarlet-crest-armor-giveaway",
-      "title": "The Witcher 3: Wild Hunt Remastered - Scarlet Crest Armor Giveaway",
-      "summary": "CD PROJEKT RED has prepared a selection of in-game goodies for The Witcher 3: Wild Hunt. Just connect your CD PROJEKT RED Account to claim them!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6abbad285fc81.jpg",
-      "publishedAt": "2026-09-29 08:20:56",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Playstation 5, Xbox Series X|S, Nintendo Switch"
-      ]
-    },
-    {
-      "id": "3328",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/best-plumber-pc-giveaway",
-      "title": "Best Plumber (IndieGala) Giveaway",
-      "summary": "Ever dreamed of being a plumber? Probably not... but now’s your chance! Grab Best Plumber for free on IndieGala and step into the boots of a young plumber!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/68f40b259de93.jpg",
-      "publishedAt": "2026-09-25 13:41:01",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, DRM-Free"
-      ]
-    },
-    {
-      "id": "3789",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/warframe-igaro-syandana-and-ice-colour-picker-pack-key-giveaway",
-      "title": "Warframe Igaro Syandana and Ice Colour Picker Pack Key Giveaway",
-      "summary": "Claim your free Warframe Igaro Syandana and Ice Colour Picker Pack Key via Alienware Arena!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6ab4108cdb221.jpg",
-      "publishedAt": "2026-09-23 13:46:52",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One, Android, iOS"
-      ]
-    },
-    {
-      "id": "3785",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/ride-6-welcome-bikes-pack-steam-key-giveaway",
-      "title": "RIDE 6 Welcome Bikes Pack Steam Key Giveaway",
-      "summary": "Claim your free RIDE 6 Welcome Bikes Pack (DLC) Steam Key and unlock three unique bikes. Please note the base game is required to enjoy this DLC content plus 10 ARP (Arena Reward Points).",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6ab15f524c039.jpg",
-      "publishedAt": "2026-09-21 12:46:10",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Steam"
-      ]
-    },
-    {
-      "id": "3322",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/sausage-hunter-pc-giveaway",
-      "title": "Sausage Hunter (Indiegala) Giveaway",
-      "summary": "The hunt for the magic sausage starts now! Download Sausage Hunter for free on IndieGala. Sausage Hunter is a 2D platformer with hand-drawn graphics and intriguing puzzles... plus a kitten and sausage…",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/68eadb2d6f0c4.jpg",
-      "publishedAt": "2026-09-19 09:15:50",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, DRM-Free"
-      ]
-    },
-    {
-      "id": "3783",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/aniimo-gift-pack-key-giveaway",
-      "title": "Aniimo Gift Pack Key Giveaway",
-      "summary": "Claim your free Aniimo Gift Pack Key and unlock 66,666 Credits, 6 Aniipod Pros, and 6 Growth Flowers. Please note that this giveaway requires 10 ARP (Arena Reward Points) to claim a key. Fortunately, …",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/aniimo.jpg",
-      "publishedAt": "2026-09-17 12:57:35",
-      "expiresAt": "2026-10-30 23:59:00",
-      "tags": [
-        "gamerpower",
-        "PC, Playstation 5, Xbox Series X|S, Android, iOS"
-      ]
-    },
-    {
-      "id": "3324",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/battle-ram-pc-giveaway",
-      "title": "Battle Ram (IndieGala) Giveaway",
-      "summary": "Become the battle lamb you were born to be! Battle Ram is free this week on IndieGala, download it now! Battle Ram is a 2d action-packed game with lambs and battling robots.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/68efabd65f913.jpg",
-      "publishedAt": "2026-09-02 09:51:31",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, DRM-Free"
-      ]
-    },
-    {
-      "id": "3316",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/leaper-pc-giveaway",
-      "title": "Leaper (IndieGala) Giveaway",
-      "summary": "Time to put your reflexes to the test! Download Leaper for free on IndieGala! Leaper is a 2d side-scrolling platformer with colorful pixel graphics and precise jumping mechanics. Check it out!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/68e6513c31514.jpg",
-      "publishedAt": "2026-08-26 07:55:48",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, DRM-Free"
-      ]
-    },
-    {
-      "id": "3728",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/reverse-1999-bonus-pack-key-giveaway",
-      "title": "Reverse: 1999 Bonus Pack Key Giveaway",
-      "summary": "Claim your free Reverse: 1999 Bonus Pack Key and unlock in-game items for Reverse: 1999 including Picrasma Candy, Dust and Sharpodonty.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6a70992bcc6d9.jpg",
-      "publishedAt": "2026-08-03 09:35:39",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Android, iOS"
-      ]
-    },
-    {
-      "id": "3719",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/fantasy-grounds-dragons-npc-dice-pack-volume-1-steam-key-giveaway",
-      "title": "Fantasy Grounds Dragons NPC Dice Pack Volume 1 Steam Key Giveaway",
-      "summary": "Claim your free Fantasy Grounds Dragons NPC Dice Pack Volume 1 (DLC) Steam key. Please note that this DLC giveaway requires the base game and 10 ARP (Arena Reward Points) to claim a key. Fortunately, …",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6a5a2df1cbecc.jpg",
-      "publishedAt": "2026-07-17 09:28:17",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Steam"
-      ]
-    },
-    {
-      "id": "3718",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/deadswitch-combat-vehicle-bundle-steam-key-giveaway",
-      "title": "Deadswitch Combat Vehicle Bundle Steam Key Giveaway",
-      "summary": "Claim your free Deadswitch Combat Vehicle Bundle (DLC) Steam key. Please note that this DLC giveaway requires the base game and 10 ARP (Arena Reward Points) to claim a key. Fortunately, you can earn A…",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6a5a2cda80145.jpg",
-      "publishedAt": "2026-07-17 09:23:38",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Steam"
-      ]
-    },
-    {
-      "id": "3716",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway",
-      "title": "Dwarven Realms (Steam) Key Giveaway",
-      "summary": "Claim free Steam keys for Dwarven Realms! Dwarven Realms is a 3D action-packed ARPG with epic powers and endless possibilities. Please note this Steam Key giveaway requires 10 ARP (Arena Reward Points…",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6a59119a8eb8d.jpg",
-      "publishedAt": "2026-07-16 13:15:06",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Steam"
-      ]
-    },
-    {
-      "id": "3704",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/goals-amd-kit-steam-key-giveaway",
-      "title": "GOALS: AMD Kit Key Giveaway",
-      "summary": "Claim your free key with the AMD Advanced Kit and enjoy GOALS in style. Please note the base game GOALS (free-to-play) is required to enjoy this DLC content.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6a4becdd3a999.jpg",
-      "publishedAt": "2026-07-06 13:58:53",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Steam"
-      ]
-    },
-    {
-      "id": "3691",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/crystal-saga-nova-free-gift-pack-keys",
-      "title": "Crystal Saga Nova: Free Gift Pack Keys",
-      "summary": "Claim your free Crystal Saga Nova Gift Pack key and unlock free in-game items including Dragon Coins and more!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6a3ab4213e0cd.jpg",
-      "publishedAt": "2026-06-23 12:28:17",
-      "expiresAt": "2028-01-01 23:59:00",
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "3675",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/neverwinter-cape-of-the-noble-north-key-giveaway",
-      "title": "Neverwinter: Cape of the Noble North Key Giveaway",
-      "summary": "Claim your free Neverwinter Cape of the Noble North key, unlock this cosmetic item, and explore Neverwinter in style.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6a2717e22a61f.jpg",
-      "publishedAt": "2026-06-08 15:28:34",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "3656",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/007-first-light-ops-radiant-outfit-key-giveaway",
-      "title": "007 First Light: Ops Radiant Outfit Key Giveaway",
-      "summary": "Redeem the 007 First Light: Ops Radiant Outfit Key to unlock the Ops Radiant outfit for 007. Please note this giveaway requires 5 ARP (Alienware Rewards Points) to claim a key. Fortunately, you can ea…",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6a171b5b30add.jpg",
-      "publishedAt": "2026-05-27 12:27:07",
-      "expiresAt": "2027-05-27 23:59:00",
-      "tags": [
-        "gamerpower",
-        "PC, Playstation 5, Xbox Series X|S, Nintendo Switch"
-      ]
-    },
-    {
-      "id": "3632",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/world-of-tanks-blitz-welcome-bundle-steam-giveaway",
-      "title": "World of Tanks Blitz - Welcome Bundle (Steam) Giveaway",
-      "summary": "Claim your free World of Tanks Blitz - Welcome Bundle DLC via Steam until June 15 and unlock 500,000 credits, 1 Thunder and Lightning Rare camo certificate, plus 3 days of premium account.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6a0076b2a84f1.jpg",
-      "publishedAt": "2026-05-10 08:14:42",
-      "expiresAt": "2026-05-15 23:59:00",
-      "tags": [
-        "gamerpower",
-        "PC, Steam"
-      ]
-    },
-    {
-      "id": "3624",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/without-a-hitch-ufo-hat-key-giveaway",
-      "title": "Without a Hitch UFO Hat Key Giveaway",
-      "summary": "Grab your free Without a Hitch UFO hat and show off your extraterrestrial style!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/69fa23daacfcb.jpg",
-      "publishedAt": "2026-05-05 13:07:38",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "1920",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/genshin-impact-new-primogems-codes",
-      "title": "Genshin Impact: New Primogems Codes",
-      "summary": "Grab these NEW Genshin Impact: Primogems Codes before they expire and unlock several in-game items for Genshin Impact including Primogems, ora, Hero's Wit and much more!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6324b499e18df.jpg",
-      "publishedAt": "2026-04-26 13:53:01",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Playstation 5, Playstation 4"
-      ]
-    },
-    {
-      "id": "3592",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/arknights-endfield-gift-pack-key-giveaway",
-      "title": "Arknights: Endfield Gift Pack Key Giveaway",
-      "summary": "Claim your free Arknights: Endfield Gift Pack Key and unlock 5,000 T-Creds and 10 Intermediate Combat Records. Please note that 5 ARP (Arena Rewards Points) are required to claim this key.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/69e2571643f8d.jpg",
-      "publishedAt": "2026-04-17 11:51:50",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Playstation 5, Android, iOS"
-      ]
-    },
-    {
-      "id": "3584",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/super-animal-royale-bundle-key-giveaway",
-      "title": "Super Animal Royale Bundle Key Giveaway",
-      "summary": "Claim your free Super Animal Royale bundle key and unlock free in-game items, including an outfit, hairband, pen melee weapon, and book gravestone. Please note that 5 ARP (Arena Rewards Points) are re…",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/69e110ed9597c.jpg",
-      "publishedAt": "2026-04-16 12:40:13",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "3582",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/idle-champions-lae-zel-key-giveaway",
-      "title": "Idle Champions Lae'zel Key Giveaway",
-      "summary": "Claim your free Idle Champions Lae'zel Key and unlock the Champion Lae'zel and Three Gold Lae'zel Chests. Please note this DLC giveaway requires the base game and 5 ARP to claim a key. Fortunately, yo…",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/69e10f2ba97f6.jpg",
-      "publishedAt": "2026-04-16 12:32:43",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One, Android, iOS"
-      ]
-    },
-    {
-      "id": "3568",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/deadswitch-combat-soldier-bundle-steam-giveaway",
-      "title": "Deadswitch Combat: Soldier Bundle (Steam) Giveaway",
-      "summary": "Claim your free Deadswitch Combat: Soldier Bundle Steam DLC key and unlock all 300+ soldier items! Please note this DLC giveaway requires the base game and 5 ARP to claim a key. Fortunately, you can e…",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/69d44cc9b09a2.jpg",
-      "publishedAt": "2026-04-06 20:16:09",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Steam"
-      ]
-    },
-    {
-      "id": "3513",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/star-trek-online-corruption-gift-pack-key-giveaway",
-      "title": "Star Trek Online: Corruption Gift Pack Key Giveaway",
-      "summary": "Claim your free Star Trek Online: Corruption Gift Pack Key and unlock free in-game items, including 1 Terran Empire Odyssey Outfit, 1 Elite Services Pack, and 1 Small XP Boost. Please note that 5 ARP …",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/69a718ba231fc.jpg",
-      "publishedAt": "2026-03-03 12:22:02",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "3508",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/blade-and-soul-neo-anniversary-weapon-skin-key-giveaway",
-      "title": "Blade and Soul NEO Anniversary Weapon Skin Key Giveaway",
-      "summary": "Claim your free Blade and Soul NEO Anniversary Weapon Skin Key to unlock a Hot Pink Illusion Weapon Chest and one Character Alteration Voucher. Please note that 5 ARP (Arena Rewards Points) are requir…",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/699f2c7ebf7f6.jpg",
-      "publishedAt": "2026-02-25 12:08:14",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "3488",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/deadswitch-combat-weapons-skins-steam-key-giveaway",
-      "title": "Deadswitch Combat: Weapons Skins Steam Key Giveaway",
-      "summary": "Claim your free Deadswitch Combat: Weapon Skins Bundle Steam DLC key and unlock 200+ weapon skins! Please note this DLC giveaway requires the base game and 10 ARP to claim a key. Fortunately, you can …",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/698b912713a1b.jpg",
-      "publishedAt": "2026-02-10 15:17:23",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Steam"
-      ]
-    },
-    {
-      "id": "3489",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/kards-special-bundle-key-giveaway",
-      "title": "KARDS Special Bundle Key Giveaway",
-      "summary": "Score your free KARDS Special Bundle Key! Please note this DLC giveaway requires the base game and 10 ARP to claim a key. Fortunately, you can earn ARP daily for free.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/698b92396a0fc.jpg",
-      "publishedAt": "2026-02-10 15:16:57",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "3486",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/chop-shop-playtest-steam-key-giveaway",
-      "title": "Chop Shop Playtest (Steam) Key Giveaway",
-      "summary": "Claim your free Chop Shop Playtest Steam Key and join the playtest!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/698625be7e6bf.jpg",
-      "publishedAt": "2026-02-06 12:32:46",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Steam"
-      ]
-    },
-    {
-      "id": "3482",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/endless-space-2-untold-tales-dlc-steam-giveaway",
-      "title": "Endless Space 2 - Untold Tales DLC (Steam) Giveaway",
-      "summary": "Claim your free DLC for Endless Space 2 (limited stock)!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/69822af34149c.jpg",
-      "publishedAt": "2026-02-03 12:05:55",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Steam"
-      ]
-    },
-    {
-      "id": "3475",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/untrusted-10k-credits-key-giveaway",
-      "title": "Untrusted 10K Credits Key Giveaway",
-      "summary": "Claim this key to receive 10,000 in-game Credits for Untrusted, absolutely free! Plus, the game is currently free to keep, but only if you act fast!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/697b961f06e74.jpg",
-      "publishedAt": "2026-01-29 12:17:19",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "3446",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/gigabash-pc-giveaway",
-      "title": "GigaBash (Stove) Giveaway",
-      "summary": "Score GigaBash for free via Stove and claim your place as king among Titans! GigaBash is a multiplayer arena brawler with gigantic film-inspired kaiju and fully destructible environments.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/69567c4ee0fa3.jpg",
-      "publishedAt": "2026-01-01 08:53:18",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "3408",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/tomb-raider-legacy-of-atlantis-lara-croft-wetsuit-skin-giveaway",
-      "title": "Tomb Raider Legacy of Atlantis: Lara Croft Wetsuit Skin Giveaway",
-      "summary": "Amazon Games is giving away the Mediterranean Wetsuit Outfit for Tomb Raider: Legacy of Atlantis. To claim it, simply sign up for an Amazon Games ID account and link it to your Steam, PlayStation Netw…",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6940b8f5a5ee0.jpg",
-      "publishedAt": "2025-12-15 20:42:13",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Playstation 5, Xbox One"
-      ]
-    },
-    {
-      "id": "3398",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/bethesda-bundle-giveaway",
-      "title": "Bethesda Bundle Giveaway",
-      "summary": "Claim your free Bethesda bundle and unlock in-game items for Fallout 76 and Starfield! This bundle includes the Vault 21 Jumpsuit and Joshua Tree for Fallout 76, along with the Battle-Hardened Beowulf…",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6938dcde2d35c.jpg",
-      "publishedAt": "2025-12-09 21:37:18",
-      "expiresAt": "2026-12-09 23:59:00",
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "3373",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/dominion-synergy-gift-pack-key-giveaway",
-      "title": "Dominion Synergy Gift Pack Key Giveaway",
-      "summary": "Claim your free Dominion Synergy Gift Pack Key and unlock a Pearl Magnum Gunskin plus 1-month Ultimate Battle Pass.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/691cb27e81a55.jpg",
-      "publishedAt": "2025-11-18 12:53:02",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Epic Games Store"
-      ]
-    },
-    {
-      "id": "3321",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/vampire-master-gift-pack-codes-giveaway",
-      "title": "Vampire Master Gift Pack Codes Giveaway",
-      "summary": "Claim your free gift pack code to unlock in-game items for Vampire Master, including Treasure Tickets and more!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/68e900dc9d6b8.jpg",
-      "publishedAt": "2025-10-10 08:49:32",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "3145",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/arena-breakout-infinite-koen-pack-key-giveaway",
-      "title": "Arena Breakout: Infinite Koen Pack Key Giveaway",
-      "summary": "Claim your free Arena Breakout: Infinite Koen Pack Key and unlock 300,000 Koen (in-game currency)!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/681af68aed3e9.jpg",
-      "publishedAt": "2025-09-26 09:20:41",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "3293",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/dungeonloot-open-beta-has-arrived",
-      "title": "DungeonLoot: Open Beta Has Arrived!",
-      "summary": "The GamerPower team is on a quest to bring more loot to gamers, so we created DungeonLoot. The idea is something like Amazon Prime Gaming, but completely free. No subscriptions or costs, just a place …",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/68d2ea0b968f7.jpg",
-      "publishedAt": "2025-09-23 14:42:19",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Steam, Epic Games Store, Playstation 5, Xbox Series X|S, Nintendo Switch, Android, iOS"
-      ]
-    },
-    {
-      "id": "2856",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/dave-the-diver-godzilla-content-pack-steam-giveaway",
-      "title": "DAVE THE DIVER - Godzilla Content Pack (Steam) Giveaway",
-      "summary": "Grab your free Godzilla DLC for DAVE THE DIVER on Steam! DAVE THE DIVER - Godzilla Content Pack is a time-limited free DLC, only available until December 31, 2026. Please note the base game DAVE THE D…",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/664f58a123dcd.jpg",
-      "publishedAt": "2025-06-28 01:57:48",
-      "expiresAt": "2026-12-31 23:59:00",
-      "tags": [
-        "gamerpower",
-        "PC, Steam"
-      ]
-    },
-    {
-      "id": "3144",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/magic-the-gathering-arena-sliver-overlord-sleeve-key-giveaway",
-      "title": "Magic: The Gathering Arena Sliver Overlord Sleeve Key Giveaway",
-      "summary": "Claim your free Sliver Overlord Sleeve in MTG Arena and rule the battlefield!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6813a905cd788.jpg",
-      "publishedAt": "2025-05-01 13:01:57",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "3112",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/screenplay-ccg-box-office-bundle-key-giveaway",
-      "title": "ScreenPlay CCG: Box Office Bundle Key Giveaway",
-      "summary": "Score your free ScreenPlay CCG: Box Office Bundle Key and unlock free in-game items!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/67dda98862fad.jpg",
-      "publishedAt": "2025-03-21 14:01:44",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "3086",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/3on3-freestyle-beginner-s-starter-kit-steam-giveaway",
-      "title": "3on3 FreeStyle: Beginner's Starter Kit (Steam) Giveaway",
-      "summary": "Claim your 3on3 FreeStyle - Beginner's Starter Kit for free via Steam and get started with confidence! Each starter kit is packed with essential in-game items to boost your early progress!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/67b5dc10c00d3.jpg",
-      "publishedAt": "2025-02-19 08:26:40",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Steam"
-      ]
-    },
-    {
-      "id": "2965",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/world-of-tanks-invite-bonus-code-giveaway",
-      "title": "World of Tanks - Invite/Bonus Code Giveaway",
-      "summary": "Unlock free in-game rewards with your World of Tanks Invite or Bonus Code. Whether you're a new or existing player, you can claim your code today. Please note that the rewards will vary depending on y…",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/670e6cc612e0c.jpg",
-      "publishedAt": "2024-10-15 09:23:18",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "2823",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/the-elder-scrolls-online-experience-scroll-key-giveaway",
-      "title": "The Elder Scrolls Online: Experience Scroll Key Giveaway",
-      "summary": "Claim your free The Elder Scrolls Online: Experience Scroll Key and unlock a (3x) Grand Gold coast Experience Scroll. This scroll will give you 150% Experience Point bonus from all sources for 1 hour.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/660c622448a45.jpg",
-      "publishedAt": "2024-08-07 19:25:54",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One"
-      ]
-    },
-    {
-      "id": "2875",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/homeworld-3-emblem-key-giveaway",
-      "title": "Homeworld 3 Emblem Key Giveaway",
-      "summary": "Are you playing Homeworld 3? Claim your free Alienware Emblem! Please note the base game Homeworld 3 is required to enjoy this add-on content.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/66705e4f5649b.jpg",
-      "publishedAt": "2024-06-17 12:03:27",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "2871",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/the-elder-scrolls-online-pyromancer-s-quandary-emote-key-giveaway",
-      "title": "The Elder Scrolls Online: Pyromancer's Quandary Emote Key Giveaway",
-      "summary": "Are you playing The Elder Scrolls Online? Claim your free gift Key, unlock the Pyromancer's Quandary Emote and ignite the world!",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/66672d014b21f.jpg",
-      "publishedAt": "2024-06-10 12:42:41",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One"
-      ]
-    },
-    {
-      "id": "2835",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/everspace-2-decal-dlc-steam-key-giveaway",
-      "title": "EVERSPACE 2 Decal DLC Steam Key Giveaway",
-      "summary": "Claim your free Steam key and unlock the \"Alienware decal\" for your ships in EVERSPACE 2! Please note the base game EVERSPACE 2 on Steam is required to enjoy this content.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/662fe7544661a.jpg",
-      "publishedAt": "2024-04-29 14:30:44",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Steam"
-      ]
-    },
-    {
-      "id": "2817",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/zero-king-beta-steam-key-giveaway",
-      "title": "Zero King (Beta) Steam Key Giveaway",
-      "summary": "Claim your free Zero King Beta Steam Key and join the beta test today! Plus by joining this beta, you'll have a chance to unlock a limited edition ship! Zero King is a free-to-play post-apocalyptic, 4…",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/6601b1f21bec2.jpg",
-      "publishedAt": "2024-03-25 13:18:42",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC, Steam"
-      ]
-    },
-    {
-      "id": "2734",
-      "source": "gamerpower",
-      "sourceName": "GamerPower",
-      "url": "https://www.gamerpower.com/open/metaball-jersey-key-giveaway",
-      "title": "Metaball Jersey Key Giveaway",
-      "summary": "Claim your free Metaball Alienware Jersey Key and dominate the court with a touch of style! Metaball is a free-to-play online multiplayer sports game based on Basketball.",
-      "kind": "freebie",
-      "category": "game",
-      "obtain": "free",
-      "imageUrl": "https://www.gamerpower.com/offers/1b/659c3bffc6043.jpg",
-      "publishedAt": "2024-01-08 13:16:31",
-      "expiresAt": null,
-      "tags": [
-        "gamerpower",
-        "PC"
-      ]
-    },
-    {
-      "id": "hz6xcac",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://cloud.google.com",
-      "title": "Google Cloud Platform",
-      "summary": "",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1iigde4",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://colab.research.google.com/",
-      "title": "Google Colab — Free Jupyter Notebooks development environment.",
-      "summary": "Free Jupyter Notebooks development environment.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1355fs7",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://www.kaggle.com/",
-      "title": "Kaggle — Jupyter Notebooks with 4 CPU cores and 30 GB RAM computational environment witho",
-      "summary": "Jupyter Notebooks with 4 CPU cores and 30 GB RAM computational environment without any weekly usage limits. With Phone number verification, 1 Nvidia Tesla P100 GPU or 2x Nvidia Tesla T4 GPU can be add…",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h15r57ks",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://remotedesktop.google.com/",
-      "title": "ChromeRemoteDesktop — Free remote desktop app with practically no limit on the number of devices, owne",
-      "summary": "Free remote desktop app with practically no limit on the number of devices, owned by Google, so needs a Google account.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1dak02",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://aistudio.google.com/",
-      "title": "Google AI Studio — Get free access to Gemini 3.5 Flash, Gemini 3 Flash and Gemma 4 models. The free",
-      "summary": "Get free access to Gemini 3.5 Flash, Gemini 3 Flash and Gemma 4 models. The free tier for Flash offers 5 requests per minute, 20 requests per day, and 250k input tokens per minute. Meanwhile the free …",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hxkl29j",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://aws.amazon.com",
-      "title": "Amazon Web Services",
-      "summary": "",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1hnjfwj",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://aws.amazon.com/cloudfront/",
-      "title": "CloudFront — 1TB egress/month, 10M HTTP requests, and 2M Function invocations/month",
-      "summary": "1TB egress/month, 10M HTTP requests, and 2M Function invocations/month",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1pg1h0d",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://aws.amazon.com/cloudwatch/",
-      "title": "CloudWatch — 10 custom metrics and alarms, 1M API requests, 5GB of log data ingestion and 5GB",
-      "summary": "10 custom metrics and alarms, 1M API requests, 5GB of log data ingestion and 5GB of log data archive",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h18jilty",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://aws.amazon.com/codebuild/",
-      "title": "CodeBuild — 100min of build time/month",
-      "summary": "100min of build time/month",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h17489v7",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://aws.amazon.com/codecommit/",
-      "title": "CodeCommit — 5 active users, 5k repositories/account, 50GB storage/month and 10K requests/mon",
-      "summary": "5 active users, 5k repositories/account, 50GB storage/month and 10K requests/month",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hv48x4",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://aws.amazon.com/codepipeline/",
-      "title": "CodePipeline — 1 active pipeline/month",
-      "summary": "1 active pipeline/month",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h8f8u27",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://aws.amazon.com/dynamodb/",
-      "title": "DynamoDB — 25GB NoSQL DB",
-      "summary": "25GB NoSQL DB",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hln4ycw",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://aws.amazon.com/lambda/",
-      "title": "Lambda — 1 million requests/month",
-      "summary": "1 million requests/month",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hijm0b3",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://aws.amazon.com/sns/",
-      "title": "SNS — 1 million publishes/month",
-      "summary": "1 million publishes/month",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hijltmu",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://aws.amazon.com/ses/",
-      "title": "SES — 3.000 messages/month (6mo)",
-      "summary": "3.000 messages/month (6mo)",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hijm2j6",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://aws.amazon.com/sqs/",
-      "title": "SQS — 1 million messaging queue requests",
-      "summary": "1 million messaging queue requests",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h12olzqr",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com",
-      "title": "Microsoft Azure",
-      "summary": "",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h3j05mj",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/services/app-service/",
-      "title": "App Service — 10 web, mobile, or API apps (60 CPU minutes/day)",
-      "summary": "10 web, mobile, or API apps (60 CPU minutes/day)",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1vb8bc9",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/services/functions/",
-      "title": "Functions — 1 million requests per month",
-      "summary": "1 million requests per month",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1kp5vtp",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/services/devtest-lab/",
-      "title": "DevTest Labs — Enable fast, easy, and lean dev-test environments",
-      "summary": "Enable fast, easy, and lean dev-test environments",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hu4h9x0",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/services/active-directory/",
-      "title": "Active Directory — 500,000 objects",
-      "summary": "500,000 objects",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hakys5d",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/services/active-directory/external-identities/b2c/",
-      "title": "Active Directory B2C — 50,000 monthly stored users",
-      "summary": "50,000 monthly stored users",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hvmq8e5",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/services/devops/",
-      "title": "Azure DevOps — 5 active users, unlimited private Git repos",
-      "summary": "5 active users, unlimited private Git repos",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1m4eoe3",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/services/devops/pipelines/",
-      "title": "Azure Pipelines — 1 free job limited to 60 minutes per job, 1800 minutes per month for Linux, macO",
-      "summary": "1 free job limited to 60 minutes per job, 1800 minutes per month for Linux, macOS, and Windows",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1pz8t0u",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/services/iot-hub/",
-      "title": "Microsoft IoT Hub — 8,000 messages per day",
-      "summary": "8,000 messages per day",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hyw8m1z",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/services/load-balancer/",
-      "title": "Load Balancer — 750 hours, 15GB data processing and 5 rules (12mo)",
-      "summary": "750 hours, 15GB data processing and 5 rules (12mo)",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h129rsv8",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/services/notification-hubs/",
-      "title": "Notification Hubs — 1 million push notifications",
-      "summary": "1 million push notifications",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1i75c5s",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/pricing/details/bandwidth/",
-      "title": "Bandwidth — 15GB Outbound(12mo)",
-      "summary": "15GB Outbound(12mo)",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1buan5v",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/services/cosmos-db/",
-      "title": "Cosmos DB — 25GB storage and 1000 RUs of provisioned throughput",
-      "summary": "25GB storage and 1000 RUs of provisioned throughput",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hjhwgi1",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/pricing/details/app-service/static/",
-      "title": "Static Web Apps — Build, deploy, and host static apps and serverless functions with free SSL, Auth",
-      "summary": "Build, deploy, and host static apps and serverless functions with free SSL, Authentication/Authorization, and custom domains",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1v4hmmh",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/services/storage/",
-      "title": "Storage — 100GB LRS transactions (Azure Files), 5GB Blob storage, 10GB LRS Archive Storage",
-      "summary": "100GB LRS transactions (Azure Files), 5GB Blob storage, 10GB LRS Archive Storage, 2x64GB SSD (12mo)",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hdfc1zd",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/services/cognitive-services/",
-      "title": "Cognitive Services — AI/ML APIs (Computer Vision, Translator, Face detection, Bots, etc) with free ti",
-      "summary": "AI/ML APIs (Computer Vision, Translator, Face detection, Bots, etc) with free tier including limited transactions",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h6pmo32",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/services/search/#features",
-      "title": "Cognitive Search — AI-based search and indexation service, free for 10,000 documents",
-      "summary": "AI-based search and indexation service, free for 10,000 documents",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1kixv0",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/services/kubernetes-service/",
-      "title": "Azure Kubernetes Service — Managed Kubernetes service, free cluster management",
-      "summary": "Managed Kubernetes service, free cluster management",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h16josf5",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/services/event-grid/",
-      "title": "Event Grid — 100K ops/month",
-      "summary": "100K ops/month",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hgtt512",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://azure.microsoft.com/products/service-bus/",
-      "title": "Service Bus — 750 hours and 13 million operations Standard tier base unit (12mo)",
-      "summary": "750 hours and 13 million operations Standard tier base unit (12mo)",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h12rlb9u",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://www.oracle.com/cloud/",
-      "title": "Oracle Cloud",
-      "summary": "",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h17dhbh7",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://www.ibm.com/cloud/free/",
-      "title": "IBM Cloud",
-      "summary": "",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h12drgwt",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://www.cloudflare.com/",
-      "title": "Cloudflare",
-      "summary": "",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1k0cjaa",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://www.cloudflare.com/plans/",
-      "title": "Application Services — Free DNS for an unlimited number of domains, DDoS Protection, CDN along with fre",
-      "summary": "Free DNS for an unlimited number of domains, DDoS Protection, CDN along with free SSL, Firewall rules and page rules,  WAF, Bot Mitigation, Free Unmetered Rate Limiting - 1 rule per domain, Analytics,…",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1usl2op",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://www.cloudflare.com/plans/zero-trust-services/",
-      "title": "Zero Trust & SASE — Up to 50 Users, 24 hours of activity logging, three network locations",
-      "summary": "Up to 50 Users, 24 hours of activity logging, three network locations",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "helkard",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://www.cloudflare.com/products/tunnel/",
-      "title": "Cloudflare Tunnel — You can expose locally running HTTP port over a tunnel to a random subdomain on ",
-      "summary": "You can expose locally running HTTP port over a tunnel to a random subdomain on trycloudflare.com use Quick Tunnels, No account required. More features (TCP tunnel, Load balancing, VPN) in Zero Trust …",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hue8d1j",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://developers.cloudflare.com/workers/",
-      "title": "Workers — Deploy serverless code for free on Cloudflare's global network-100k daily reques",
-      "summary": "Deploy serverless code for free on Cloudflare's global network-100k daily requests.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "htfo8bc",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://developers.cloudflare.com/kv",
-      "title": "Workers KV — 100k read requests per day, 1000 write requests per day, 1000 delete requests pe",
-      "summary": "100k read requests per day, 1000 write requests per day, 1000 delete requests per day, 1000 list requests per day, 1 GB stored data",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1o4ilnm",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://developers.cloudflare.com/r2/",
-      "title": "R2 — 10 GB per month, 1 million Class A operations per month, 10 million Class B oper",
-      "summary": "10 GB per month, 1 million Class A operations per month, 10 million Class B operations per month",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1o4ib91",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://developers.cloudflare.com/d1/",
-      "title": "D1 — 5 million rows read per day, 100k rows written per day, 1 GB storage",
-      "summary": "5 million rows read per day, 100k rows written per day, 1 GB storage",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hb4s6jc",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://developers.cloudflare.com/pages/",
-      "title": "Pages — Develop and deploy your web apps on Cloudflare's fast, secure global network. Fi",
-      "summary": "Develop and deploy your web apps on Cloudflare's fast, secure global network. Five hundred monthly builds, 100 custom domains, Integrated SSL, unlimited accessible seats, unlimited preview deployments…",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "he36grk",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://developers.cloudflare.com/queues/",
-      "title": "Queues — 1 million operations per month",
-      "summary": "1 million operations per month",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hx1f5or",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://developers.cloudflare.com/calls/turn/",
-      "title": "TURN — 1TB of free (outgoing) traffic per month.",
-      "summary": "1TB of free (outgoing) traffic per month.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1guxlqt",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://www.zoho.com",
-      "title": "Zoho — Started as an e-mail provider but now provides a suite of services, some of whic",
-      "summary": "Started as an e-mail provider but now provides a suite of services, some of which have free plans. List of services having free plans :",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1vkixyt",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://catalyst.zoho.com",
-      "title": "Catalyst by Zoho — PaaS/full-stack cloud platform with a generous free tier",
-      "summary": "PaaS/full-stack cloud platform with a generous free tier",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h10vqujn",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://www.zoho.com/apptics/",
-      "title": "Zoho Apptics — Unified and actionable product analytics to monitor performance, analyze user be",
-      "summary": "Unified and actionable product analytics to monitor performance, analyze user behavior and collect feedback for mobile, web, and desktop apps with generous Free Forever plan.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hxlbnpk",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://zoho.com/mail",
-      "title": "Email — Free for 5 users. 5GB/user & 25 MB attachment limit, one domain.",
-      "summary": "Free for 5 users. 5GB/user & 25 MB attachment limit, one domain.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h2qvbs3",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://www.zoho.com/assist",
-      "title": "Zoho Assist — Zoho Assist's forever free plan includes one concurrent remote support license a",
-      "summary": "Zoho Assist's forever free plan includes one concurrent remote support license and Access to 5 unattended computer licenses for unlimited duration available for both professional and personnel use.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hiwt2w8",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://zoho.com/sprints",
-      "title": "Sprints — Free for 5 users,5 Projects & 500MB storage.",
-      "summary": "Free for 5 users,5 Projects & 500MB storage.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hxl672k",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://zoho.com/docs",
-      "title": "Docs — Free for 5 users with 1 GB upload limit & 5GB storage. Zoho Office Suite (Writer",
-      "summary": "Free for 5 users with 1 GB upload limit & 5GB storage. Zoho Office Suite (Writer, Sheets & Show) comes bundled.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "huif37v",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://zoho.com/projects",
-      "title": "Projects — Free for 3 users, 2 projects & 10 MB attachment limit. The same plan applies to ",
-      "summary": "Free for 3 users, 2 projects & 10 MB attachment limit. The same plan applies to Bugtracker.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1vnqybd",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://zoho.com/connect",
-      "title": "Connect — Team Collaboration free for 25 users with three groups, three custom apps, 3 Boa",
-      "summary": "Team Collaboration free for 25 users with three groups, three custom apps, 3 Boards, 3 Manuals, and 10 Integrations along with channels, events & forums.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1vi78ga",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://zoho.com/meeting",
-      "title": "Meeting — Meetings with upto 3 meeting participants & 10 Webinar attendees.",
-      "summary": "Meetings with upto 3 meeting participants & 10 Webinar attendees.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1b2f1oh",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://zoho.com/vault",
-      "title": "Vault — Password Management is accessible for Individuals.",
-      "summary": "Password Management is accessible for Individuals.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "1257065",
-      "source": "v2ex-free",
-      "sourceName": "V2EX · 免费赠送",
-      "url": "https://www.v2ex.com/t/1257065",
-      "title": "「网易云音乐」11 月领免费会员，随机 7 天 左右 ，共 256 天",
-      "summary": "1http:/$iAJfAj34a01982$ [復淛整段文案并咑閞「网易云音乐」，领免费会员] 黑胶邀请官 五***信 送你网易云音乐 11 月黑胶会员卡，领取享 20+会员权益。https://163cn.tv/bkZkJJ9g",
-      "kind": "freebie",
-      "category": "other",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T09:22:22.000Z",
-      "expiresAt": null,
-      "tags": [
-        "v2ex",
-        "free"
-      ]
-    },
-    {
-      "id": "1255481",
-      "source": "v2ex-free",
-      "sourceName": "V2EX · 免费赠送",
-      "url": "https://www.v2ex.com/t/1255481",
-      "title": "网易云音乐免费领取会员 7 天，需要自取",
-      "summary": "1http:/$QFnINb346a0418$ [復淛整段文案并咑閞「网易云音乐」，领免费会员] 黑胶邀请官 _***围 送你网易云音乐 11 月黑胶会员卡，领取享 20+会员权益。https://163cn.tv/bkATxyw2",
-      "kind": "freebie",
-      "category": "other",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T02:29:26.000Z",
-      "expiresAt": null,
-      "tags": [
-        "v2ex",
-        "free"
-      ]
-    },
-    {
-      "id": "1254708",
-      "source": "v2ex-free",
-      "sourceName": "V2EX · 免费赠送",
-      "url": "https://www.v2ex.com/t/1254708",
-      "title": "网易云音乐会员, 随机天数有需自取(2026.11.05)",
-      "summary": "1http:/$vyA32q34339fba$ [復淛整段文案并咑閞「网易云音乐」，领免费会员] 送你网易云音乐 11 月黑胶会员卡，领取享 20+会员权益。https://163cn.tv/bkiAel2A",
-      "kind": "freebie",
-      "category": "other",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T06:05:18.000Z",
-      "expiresAt": null,
-      "tags": [
-        "v2ex",
-        "free"
-      ]
-    },
-    {
-      "id": "1254653",
-      "source": "v2ex-free",
-      "sourceName": "V2EX · 免费赠送",
-      "url": "https://www.v2ex.com/t/1254653",
-      "title": "网易云音乐会员名额快过期了，需要的自取",
-      "summary": "1http:/$NzyYj2343199ae$ [復淛整段文案并咑閞「网易云音乐」，领免费会员] 黑胶邀请官 _***围 送你网易云音乐 11 月黑胶会员卡，领取享 20+会员权益。https://163cn.tv/bkhFQTos",
-      "kind": "freebie",
-      "category": "other",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T02:58:32.000Z",
-      "expiresAt": null,
-      "tags": [
-        "v2ex",
-        "free"
-      ]
-    },
-    {
-      "id": "1254395",
-      "source": "v2ex-free",
-      "sourceName": "V2EX · 免费赠送",
-      "url": "https://www.v2ex.com/t/1254395",
-      "title": "「网易云音乐」，领免费会员] 黑胶邀请官 一***i 送你网易云音乐 11 月黑胶会员卡，领取享 20+会员权益。",
-      "summary": "1http:/$nAfeum34261fe8$ [復淛整段文案并咑閞「网易云音乐」，领免费会员] 黑胶邀请官 一***i 送你网易云音乐 11 月黑胶会员卡，领取享 20+会员权益。https://163cn.tv/bkd3YGmV",
-      "kind": "freebie",
-      "category": "other",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T05:42:52.000Z",
-      "expiresAt": null,
-      "tags": [
-        "v2ex",
-        "free"
-      ]
-    },
-    {
-      "id": "1253682",
-      "source": "v2ex-free",
-      "sourceName": "V2EX · 免费赠送",
-      "url": "https://www.v2ex.com/t/1253682",
-      "title": "「网易云音乐」11 月领免费会员，随机 7 天 左右 ，共 128 天",
-      "summary": "1http:/$7naa6r3407f339$ [復淛整段文案并咑閞「网易云音乐」，领免费会员] 黑胶邀请官 L***文 送你网易云音乐 11 月黑胶会员卡，领取享 20+会员权益。https://163cn.tv/bj3XrzP6 领取了的，回来留个言",
-      "kind": "freebie",
-      "category": "other",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T02:05:49.000Z",
-      "expiresAt": null,
-      "tags": [
-        "v2ex",
-        "free"
-      ]
-    },
-    {
-      "id": "1253316",
-      "source": "v2ex-free",
-      "sourceName": "V2EX · 免费赠送",
-      "url": "https://www.v2ex.com/t/1253316",
-      "title": "中国移动有个美团单车的权益，大家有需要的可以去美团-骑车里面找下领取",
-      "summary": "",
-      "kind": "freebie",
-      "category": "other",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T15:42:49.000Z",
-      "expiresAt": null,
-      "tags": [
-        "v2ex",
-        "free"
-      ]
-    },
-    {
-      "id": "1250007",
-      "source": "v2ex-free",
-      "sourceName": "V2EX · 免费赠送",
-      "url": "https://www.v2ex.com/t/1250007",
-      "title": "「网易云音乐」10 月领免费会员，随机 7 天 左右 ，共 128 天",
-      "summary": "1http:/$FRfiIr334ae24f$ [復淛整段文案并咑閞「网易云音乐」，领免费会员] 黑胶邀请官 L***文 送你网易云音乐 10 月黑胶会员卡，领取享 20+会员权益。https://163cn.tv/biY8eHrb 领取了的，回来留个言",
-      "kind": "freebie",
-      "category": "other",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T06:18:15.000Z",
-      "expiresAt": null,
-      "tags": [
-        "v2ex",
-        "free"
-      ]
-    },
-    {
-      "id": "1249059",
-      "source": "v2ex-free",
-      "sourceName": "V2EX · 免费赠送",
-      "url": "https://www.v2ex.com/t/1249059",
-      "title": "美团单车 7 天 66 次卡，免费送，先到先得",
-      "summary": "1 美团会员送您单车 7 天 66 次卡，长按复制后打开👉美团 APP👈领取→ http://💰lpOGNiZTVlZTM💰",
-      "kind": "freebie",
-      "category": "other",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T07:20:42.000Z",
-      "expiresAt": null,
-      "tags": [
-        "v2ex",
-        "free"
-      ]
-    },
-    {
-      "id": "1249001",
-      "source": "v2ex-free",
-      "sourceName": "V2EX · 免费赠送",
-      "url": "https://www.v2ex.com/t/1249001",
-      "title": "7 天美团单车免费骑",
-      "summary": "🎁 **送十张美团单车骑行卡！** 📲 **领取方式：** 复制下面整条信息，打开美团 App 即可领取。 > 1 美团会员送你单车骑行卡，快来领取吧❤️复制整条信息，打开👉美团👈 http:/💰o0YzdlZTBiMmQ💰",
-      "kind": "freebie",
-      "category": "other",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T05:06:02.000Z",
-      "expiresAt": null,
-      "tags": [
-        "v2ex",
-        "free"
-      ]
-    },
-    {
-      "id": "inclusionai/ling-3.2-flash:free",
-      "source": "openrouter-free",
-      "sourceName": "OpenRouter",
-      "url": "https://openrouter.ai/models/inclusionai/ling-3.2-flash:free",
-      "title": "免费模型：inclusionAI: Ling 3.2 Flash (free)",
-      "summary": "Ling 3.2 Flash is a hybrid reasoning model from inclusionAI that accepts text and image input, with a 1M-token context window and up to 200 images per request. Thinking can...",
-      "kind": "freebie",
-      "category": "ai",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "ai",
-        "免费模型",
-        "1048576"
-      ]
-    },
-    {
-      "id": "baidu/ernie-5.5-flash-preview:free",
-      "source": "openrouter-free",
-      "sourceName": "OpenRouter",
-      "url": "https://openrouter.ai/models/baidu/ernie-5.5-flash-preview:free",
-      "title": "免费模型：Baidu: ERNIE-5.5-Flash-Preview (free)",
-      "summary": "ERNIE 5.5 Flash Preview is the latest foundation model in the ERNIE family, with comprehensive improvements in coding, agentic capabilities, knowledge work, and deep research. It has 280 billion total…",
-      "kind": "freebie",
-      "category": "ai",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "ai",
-        "免费模型",
-        "1024000"
-      ]
-    },
-    {
-      "id": "liquid/lfm-3-1.7b:free",
-      "source": "openrouter-free",
-      "sourceName": "OpenRouter",
-      "url": "https://openrouter.ai/models/liquid/lfm-3-1.7b:free",
-      "title": "免费模型：LiquidAI: LFM3-1.7B (free)",
-      "summary": "A compact 1.7B-parameter text model with a 256K-token context, post-trained for agents, tool calling, and structured outputs. It reasons before it answers. Prompts and outputs may be retained and used…",
-      "kind": "freebie",
-      "category": "ai",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "ai",
-        "免费模型",
-        "262144"
-      ]
-    },
-    {
-      "id": "particle-ai/particle-1:free",
-      "source": "openrouter-free",
-      "sourceName": "OpenRouter",
-      "url": "https://openrouter.ai/models/particle-ai/particle-1:free",
-      "title": "免费模型：Particle AI: Particle-1 (free)",
-      "summary": "Particle-1 is a token-efficient agentic coding model from Particle AI, post-trained on DeepSeek V4.1 Flash. It is suited for software engineering work such as terminal workflows, codebase changes, and…",
-      "kind": "freebie",
-      "category": "ai",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "ai",
-        "免费模型",
-        "1048576"
-      ]
-    },
-    {
-      "id": "recursive/flint-v1.0:free",
-      "source": "openrouter-free",
-      "sourceName": "OpenRouter",
-      "url": "https://openrouter.ai/models/recursive/flint-v1.0:free",
-      "title": "免费模型：Recursive: Flint (free)",
-      "summary": "Flint is an open-weight mixture-of-experts model from Recursive, with about 2.5B active parameters out of 40B total, built by Recursive's autoresearch system Eureka Machine for coding agents. It is su…",
-      "kind": "freebie",
-      "category": "ai",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "ai",
-        "免费模型",
-        "262144"
-      ]
-    },
-    {
-      "id": "nvidia/nemotron-3.5-super-vl:free",
-      "source": "openrouter-free",
-      "sourceName": "OpenRouter",
-      "url": "https://openrouter.ai/models/nvidia/nemotron-3.5-super-vl:free",
-      "title": "免费模型：NVIDIA: Nemotron 3.5 Super VL (free)",
-      "summary": "NVIDIA Nemotron 3.5 Super VL is an open multimodal mixture-of-experts model from NVIDIA, with 12B active parameters out of 120B total. It takes text, images, documents, GUI screenshots, and video...",
-      "kind": "freebie",
-      "category": "ai",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "ai",
-        "免费模型",
-        "1000000"
-      ]
-    },
-    {
-      "id": "dots-studio/dots-3-note-preview:free",
-      "source": "openrouter-free",
-      "sourceName": "OpenRouter",
-      "url": "https://openrouter.ai/models/dots-studio/dots-3-note-preview:free",
-      "title": "免费模型：Dots Studio: Dots3-Note Preview (free)",
-      "summary": "Dots3-Note Preview is an open-weight mixture-of-experts model from Dots Studio, with 16B active parameters out of 280B total. It is the lightest model in the Dots 3 family and is...",
-      "kind": "freebie",
-      "category": "ai",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "ai",
-        "免费模型",
-        "512000"
-      ]
-    },
-    {
-      "id": "nvidia/nemotron-3.5-lightning:free",
-      "source": "openrouter-free",
-      "sourceName": "OpenRouter",
-      "url": "https://openrouter.ai/models/nvidia/nemotron-3.5-lightning:free",
-      "title": "免费模型：NVIDIA: Nemotron 3.5 Lightning (free)",
-      "summary": "NVIDIA Nemotron 3.5 Lightning is an open mixture-of-experts model from NVIDIA, with 3B active parameters out of 30B total. It is suited for high-throughput agentic workloads and specialized tasks that…",
-      "kind": "freebie",
-      "category": "ai",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "ai",
-        "免费模型",
-        "1000000"
-      ]
-    },
-    {
-      "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
-      "source": "openrouter-free",
-      "sourceName": "OpenRouter",
-      "url": "https://openrouter.ai/models/nvidia/nemotron-3-ultra-550b-a55b:free",
-      "title": "免费模型：NVIDIA: Nemotron 3 Ultra (free)",
-      "summary": "NVIDIA Nemotron 3 Ultra is an open frontier-reasoning and orchestration model from NVIDIA, with 55B active parameters out of 550B total (MoE). Built on a hybrid Transformer-Mamba mixture-of-experts ar…",
-      "kind": "freebie",
-      "category": "ai",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "ai",
-        "免费模型",
-        "1000000"
-      ]
-    },
-    {
-      "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-      "source": "openrouter-free",
-      "sourceName": "OpenRouter",
-      "url": "https://openrouter.ai/models/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-      "title": "免费模型：NVIDIA: Nemotron 3 Nano Omni (free)",
-      "summary": "NVIDIA Nemotron™ 3 Nano Omni is a 30B-A3B open multimodal model designed to function as a perception and context sub-agent in enterprise agent systems. It accepts text, image, video, and...",
-      "kind": "freebie",
-      "category": "ai",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "ai",
-        "免费模型",
-        "256000"
-      ]
-    },
-    {
-      "id": "google/gemma-4-26b-a4b-it:free",
-      "source": "openrouter-free",
-      "sourceName": "OpenRouter",
-      "url": "https://openrouter.ai/models/google/gemma-4-26b-a4b-it:free",
-      "title": "免费模型：Google: Gemma 4 26B A4B  (free)",
-      "summary": "Gemma 4 26B A4B IT is an instruction-tuned Mixture-of-Experts (MoE) model from Google DeepMind. Despite 25.2B total parameters, only 3.8B activate per token during inference — delivering near-31B qual…",
-      "kind": "freebie",
-      "category": "ai",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "ai",
-        "免费模型",
-        "262144"
-      ]
-    },
-    {
-      "id": "google/gemma-4-31b-it:free",
-      "source": "openrouter-free",
-      "sourceName": "OpenRouter",
-      "url": "https://openrouter.ai/models/google/gemma-4-31b-it:free",
-      "title": "免费模型：Google: Gemma 4 31B (free)",
-      "summary": "Gemma 4 31B Instruct is Google DeepMind's 30.7B dense multimodal model supporting text and image input with text output. Features a 256K token context window, configurable thinking/reasoning mode, nat…",
-      "kind": "freebie",
-      "category": "ai",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "ai",
-        "免费模型",
-        "262144"
-      ]
-    },
-    {
-      "id": "google/lyria-3-pro-preview",
-      "source": "openrouter-free",
-      "sourceName": "OpenRouter",
-      "url": "https://openrouter.ai/models/google/lyria-3-pro-preview",
-      "title": "免费模型：Google: Lyria 3 Pro Preview",
-      "summary": "Full-length songs are priced at $0.08 per song. Lyria 3 is Google's family of music generation models, available through the Gemini API. With Lyria 3, you can generate high-quality, 48kHz...",
-      "kind": "freebie",
-      "category": "ai",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "ai",
-        "免费模型",
-        "1048576"
-      ]
-    },
-    {
-      "id": "google/lyria-3-clip-preview",
-      "source": "openrouter-free",
-      "sourceName": "OpenRouter",
-      "url": "https://openrouter.ai/models/google/lyria-3-clip-preview",
-      "title": "免费模型：Google: Lyria 3 Clip Preview",
-      "summary": "30 second duration clips are priced at $0.04 per clip. Lyria 3 is Google's family of music generation models, available through the Gemini API. With Lyria 3, you can generate...",
-      "kind": "freebie",
-      "category": "ai",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "ai",
-        "免费模型",
-        "1048576"
-      ]
-    },
-    {
-      "id": "openrouter/free",
-      "source": "openrouter-free",
-      "sourceName": "OpenRouter",
-      "url": "https://openrouter.ai/models/openrouter/free",
-      "title": "免费模型：Free Models Router",
-      "summary": "The simplest way to get free inference. openrouter/free is a router that selects free models at random from the models available on OpenRouter. The router smartly filters for models that...",
-      "kind": "freebie",
-      "category": "ai",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "ai",
-        "免费模型",
-        "200000"
-      ]
-    },
-    {
-      "id": "h1nyjrdt",
+      "id": "h1nz3m79",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067152-1",
-      "title": "Dots向Team stardard席位开放测试了",
-      "summary": "RT，这次测试竟然轮到我了，不过我更想要Muse邮箱，现在生态位被Muse占了，不想花时间调试Dots了",
+      "url": "https://www.nodeseek.com/post-1067255-1",
+      "title": "muse领取30亿",
+      "summary": "领取30亿的机器人又有了，用我的邀请码进去可以领取30亿，也可以换账号，但是这个机器人的账号似乎不太行，换了一个刚进去就给我解绑了相当于死了，所以建议只换30亿token，我另一个帖子发的机器人的账号还可以，都可以打电话https://t.me/masktai_bot?start=6_8kh-gDDYtsObPx",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:40:22 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:11:02 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyjqn4",
+      "id": "h1nz3kpv",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067151-1",
-      "title": "[NQ]raksmart1.81双ISP测试留档",
-      "summary": "💻基本信息++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[1m硬件质量体检报告：[36m204.202.*.*[0m[4mhttps://github.com/xykt/HardwareQuality",
+      "url": "https://www.nodeseek.com/post-1067253-1",
+      "title": "ai运维服务器用什么工具好啊？",
+      "summary": "最近漏洞有点多，又不想去维护，有没有什么工具方案能够弄的啊",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:40:17 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:10:19 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyjpwf",
+      "id": "h1nz3jz6",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067150-1",
-      "title": "[gpt模型使用感受]6.2astra体验下来不如6astra",
-      "summary": "昨天重度使用了6.2和6astra，对比着来，体感下来6.2astra似乎便宜了不少，感觉只有6astra价格的一半了，但是模型能力确实不如6astra了，而且要命的是道德感变高了，楼主是研究无人机集群编队的，结果昨天有些实验6.2astra跟我说军事用途无法帮我完成，太难绷了。",
+      "url": "https://www.nodeseek.com/post-1067252-1",
+      "title": "来论坛500多天了，还不会套落地，麻烦各位大佬指点一下",
+      "summary": "rt",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:39:47 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:10:14 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyj83r",
+      "id": "h1nz3j8h",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067147-1",
-      "title": "哪里有类似链铺这种的有x号卖呀",
+      "url": "https://www.nodeseek.com/post-1067251-1",
+      "title": "开了gemini20x，100刀赠金能用来买gcp的落地机器吗？ip质量怎么样",
+      "summary": "开了gemini20x，100刀赠金能用来买gcp的落地机器吗？ip质量怎么样，我有dmit的出海线路，想找个干净的ip自己用，这个赠金这么用合适不，还有没有其他用法",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Fri, 20 Nov 2026 03:10:11 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1nz3ihs",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1067250-1",
+      "title": "最近有什么LXC，NAT漏洞么",
+      "summary": "我的一个LXC吃灰很久了，里面就几个节点，昨天秃然被挖矿了，这也太奇怪了。独角鲸的nat也莫名奇妙连不上ssh,但是面板看运行没问题呀（莫非不是漏洞，车主把公网访问断了，应该不会这么无聊吧）有18CM的大佬知道什么消息不",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Fri, 20 Nov 2026 03:09:43 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1nz326i",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1067249-1",
+      "title": "【AaITR】准备到期可出可蹲",
+      "summary": "美国Verizon静态家宽到期日期2026-11-27急用的可以剩余价值原邮出，或者大家蹲一蹲哈哈哈，我到期就放生了，预约的应该能赶上",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Fri, 20 Nov 2026 03:09:37 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1nz31ft",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1067248-1",
+      "title": "黄金的走势怎么看？",
+      "summary": "一直暴跌，佬们都是怎么操作的？",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Fri, 20 Nov 2026 03:09:29 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1nz30p4",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1067247-1",
+      "title": "60出vidhub全端永久兑换码 45出hamhub终身Pro兑换码",
+      "summary": "rt60出vidhub全端永久兑换码45出hamhub终身Pro兑换码有需要的私信口令红包",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Fri, 20 Nov 2026 03:09:04 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1nz2zyf",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1067246-1",
+      "title": "claude code和codex这两个Agent那个好用？",
+      "summary": "claudecode和codex这两个Agent那个写代码好用？我目前是在用codex...听说Claudecode更好用？claudecode有computer-use吗？",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Fri, 20 Nov 2026 03:08:45 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1nz2z7q",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1067245-1",
+      "title": "丢一个novaxns邀请码",
       "summary": "",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:38:26 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:07:13 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyj7d2",
+      "id": "h1nz2yh1",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067146-1",
-      "title": "收一个115网盘会员",
-      "summary": "不要永久的，太贵啦，目前官方价格是295,2年vip，30T想收比官方的性价比合适的，时间比官方短的可，可以留言可以私信哈，谢谢",
+      "url": "https://www.nodeseek.com/post-1067244-1",
+      "title": "谷歌账号验证器给的验证码不对了 还有机会找回这个账号吗",
+      "summary": "谷歌账号只有手机号和密码了，辅助邮箱和两步验证的验证器都不是自己的了这种情况下谷歌账号还能整回来吗",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:38:21 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:06:51 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyj6md",
+      "id": "h1nz2xqc",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067145-1",
-      "title": "打算用谷歌的新模型，有车队吗，想拼一下",
-      "summary": "我平时用的不多，主要是对话吧",
+      "url": "https://www.nodeseek.com/post-1067243-1",
+      "title": "白开心了，关于cloudnium（牛马云）的账单",
+      "summary": "日常吐槽：刚续费才发现我这款不是常见的0.49/0.54/月,而是0.5/月还以为是bug机，以为自己中奖了，才查了下论坛记录和AI结果得出：不是Bug机器，这是Cloudnium官方此前发放的循环折扣码活动机（通常为2C2G配置，洛杉矶LA或纽约NY节点）。这批机器的价格变动和付款机制有以下几个特点：为什么是$0",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:38:05 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:06:30 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyj5vo",
+      "id": "h1nz2wzn",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067144-1",
-      "title": "今天20号了你们都恢复了吗？能不能开机了？",
-      "summary": "今天20号了你们都恢复了吗？能不能开机了？",
+      "url": "https://www.nodeseek.com/post-1067242-1",
+      "title": "收MK沪日IPLC",
+      "summary": "套餐太多，还请卖家带价",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:37:45 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:05:45 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyj54z",
+      "id": "h1nz2w8y",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067143-1",
-      "title": "好奇ks-le-6 ca区什么价格了",
-      "summary": "rt，合适的话想要一台",
+      "url": "https://www.nodeseek.com/post-1067241-1",
+      "title": "PHP 修复 7 个严重漏洞，宝塔已同步更新",
+      "summary": "11月19日，PHP官方发布新一轮安全更新，共修复7个严重漏洞和4个高危漏洞。其中7个严重漏洞的CVSS4.0评分均为9.2，部分漏洞在特定条件下可能导致远程代码执行。我们从昨天开始持续关注PHP官方的发布情况，在新版本发布后进行了打包、测试和更新，目前宝塔已上线以下PHP安全修复版本：PHP8.2.36PHP8.",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:37:41 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:05:13 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyj4ea",
+      "id": "h1nz2vi9",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067142-1",
-      "title": "看到有人收腾讯无忧套餐，它到底是什么配置带宽啊",
-      "summary": "看到有人收腾讯无忧套餐，它到底是什么配置带宽啊，是50M的带宽还是200的，多少钱一年的",
+      "url": "https://www.nodeseek.com/post-1067240-1",
+      "title": "gemini pro jp学生 30R那档和50多的那档, 区别就在youtube吗?",
+      "summary": "反重力额度有没有区别?",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:37:37 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:05:05 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyj3nl",
+      "id": "h1nz2f6z",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067141-1",
-      "title": "最近 Gemini Ultra 5x / 20x 好火，昨天白嫖了半天确实很强！",
-      "summary": "我之前用GPT做的微信小游戏，质感玩法一直很差，白嫖了半天GeminiUltra后给我的小游戏直接带来了一个质的提升，就是同样的提示词，Gemini做的事情更多，我要放弃GPT了哈哈",
+      "url": "https://www.nodeseek.com/post-1067239-1",
+      "title": "【开源自荐】 底层Rust驱动 性能夯到爆的 DSH 搜索插件",
+      "summary": "如果你也经常在dsh里接入第三方自定义模型来使用，不妨为你的第三方模型装上该插件，为它挂上一台性能强悍的搜索引擎。Numberone！——DeepSeekHarness生态里「夯到爆的多引擎自动回退联网搜索插件」为什么开发这个插件起因是一笔莫名其妙的账单。我在DSH里把聊天换成第三方模型后，发现DeepSeek官方",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:37:34 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:04:42 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyj2ww",
+      "id": "h1nz2ega",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067140-1",
-      "title": "【被骗】买 claude 解封号被骗，大家还是提防一点吧",
-      "summary": "前两天发了个购买claude解封号的帖子，骗子直接tg联系了我。让他截图了下邮件就准备交易了，一开始想的是走鱼交易，他说是违禁品，就说接受200定金，然后我也没多想毕竟之前的交易都很顺利（很久之前了，前两年买鸡时），就把钱先转过去了，没想到转账后直接被拉黑了tg状态直接从在线变为了很久没上线（事后搜索才发现很久没上",
+      "url": "https://www.nodeseek.com/post-1067238-1",
+      "title": "60收一个日区学生Gemini Pro成品号",
+      "summary": "",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:37:24 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:04:21 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyimlm",
+      "id": "h1nz2dpl",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067139-1",
-      "title": "rn现在纯路边一条了吧",
-      "summary": "rn现在几乎纯路边了1自己机房现在就是ccs的，结果还有脸20多u一年，ccs差不多配置都没有20多u一年。2dc2机房跑路而且我也不清楚为什么很多人即使推其他使用ccs机房的下游也不直接推ccs？难道是只会无脑照抄？",
+      "url": "https://www.nodeseek.com/post-1067237-1",
+      "title": "最近的美西怎么了，移动拉了么",
+      "summary": "单线程测速报告链接：https://tcpquality.ibsgss.uk/r/MAgWszP0yz手上的vmiss-tri和dmit-pro移动用起来都差不多",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:37:22 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:04:17 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyilux",
+      "id": "h1nz2cyw",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067138-1",
-      "title": "完整TG群截图最新通知：RN今年黑五应该不搞黑五闪购了",
-      "summary": "这是完整截图：意思今天凌晨的活动已经是最大诚意，而且数量还不多不过觉着真到了黑五当天，可能也会拿出来几款热闹下，数量不会多",
+      "url": "https://www.nodeseek.com/post-1067236-1",
+      "title": "【收】zouter 老款hk",
+      "summary": "出的老板bb我",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:36:59 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:04:15 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "h1nyikdj",
+      "id": "h1nz2c87",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067136-1",
-      "title": "有关Kraken的问题，各位英区、德区Krak/Kraken用户进，送鸡腿",
-      "summary": "英区、德区和国区Kraken的签约主体都是不一样，英区的签约主体是PaywardLtd，是受英国FCA监管的，出金到iFAST是完全无风险、合规的，德区的签约主体是PaywardEuropeSolutionsLimited（PESL），受爱尔兰央行CBI监管，出金到iFAST也是几乎无风险，但是国区的签约主体是Pa",
+      "url": "https://www.nodeseek.com/post-1067235-1",
+      "title": "[NQ] 干杯云 美国加州AT&T商业宽带PRO · 网关升级版",
+      "summary": "💻基本信息++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[1m硬件质量体检报告：[36m107.208.*.*[0m[4mhttps://github.com/xykt/HardwareQuality",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:35:49 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "h1nyijmu",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067135-1",
-      "title": "UU远程之后下一个是？",
-      "summary": "UU远程发布VIP服务，基础远控保持「免费」但只有1080p30Hz了https://uuyc.163.com/blog/20261118-dwdsa.html历史竟然是如此的相似，从向日葵到todesk，再到现在的UU远程，下一个会杀出谁呢",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:35:18 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "h1nyiiw5",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067134-1",
-      "title": "【TQ】CSTServer CVM EX HKX2 4 折月付$2.69 USD",
-      "summary": "IPv4回程IPv4大包回程UDP回程单线程测速报告链接：https://tcpquality.ibsgss.uk/r/WVOwHRAJxO",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:33:59 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "h1nyii5g",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067133-1",
-      "title": "（出）10元出 zou jp",
-      "summary": "1核1G、15GB硬盘，月流量1TB，剩820GB，续费28元/月。｜216段｜12月5日到期",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:33:01 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "h1nyiher",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067132-1",
-      "title": "来自泰国的ais运营商esim卡",
-      "summary": "来自泰国ais的esim保号2块一个月可联系官方49泰珠保号一年≈10cny可以注册满血的泰国line秒来验证码出售价80cny已经完成kyctg@gjjjo",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:32:22 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "h1nyifxd",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067130-1",
-      "title": "ksle6切小鸡出售咋样，有没有佬分析下",
-      "summary": "4c8g200g这种配置每月20r怎么样，2c4g100g每月10r,默认nat加ipv4的话多16r?",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:32:03 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "h1nyhzm3",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1067129-1",
-      "title": "上学时随便注册了几个github账号竟然能被找回",
-      "summary": "又多了几个快十年的老号了，稳的一匹",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Fri, 20 Nov 2026 02:31:56 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 03:03:56 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
