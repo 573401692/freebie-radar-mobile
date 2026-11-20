@@ -1,1 +1,60 @@
 name: 资源雷达采集
+
+on:
+  schedule:
+    # 每 2 小时运行一次（UTC 时间）。免费额度安全区，约 360 分钟/月
+    - cron: "0 */2 * * *"
+  workflow_dispatch: # 支持手动触发
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: 执行采集
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUT_DIR: ${{ github.workspace }}/docs/data
+        run: node collector/collect.mjs
+
+      - name: 检查产出
+        run: |
+          echo "=== 产出文件 ==="
+          ls -lh docs/data/
+          echo "=== 数据摘要 ==="
+          node -e "
+            const d = require('./docs/data/data.json');
+            console.log('生成时间:', d.generatedAt);
+            console.log('总条数:', d.total);
+            console.log('新增:', d.newCount);
+            console.log('失败源:', d.failed.length);
+            for (const [k,v] of Object.entries(d.stats)) console.log('  ' + k + ': ' + v);
+          "
+
+      - name: 提交数据
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add docs/data/
+          if git diff --staged --quiet; then
+            echo "无变化，跳过提交"
+          else
+            git commit -m "chore: 采集更新 $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
