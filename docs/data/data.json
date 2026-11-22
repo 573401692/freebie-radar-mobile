@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-22T05:15:45.933Z",
-  "startedAt": "2026-11-22T05:15:43.776Z",
+  "generatedAt": "2026-11-22T13:43:44.256Z",
+  "startedAt": "2026-11-22T13:43:42.724Z",
   "total": 166,
-  "newCount": 20,
+  "newCount": 31,
   "stats": {
     "epic": 2,
     "steam": 0,
@@ -1149,6 +1149,204 @@
       ]
     },
     {
+      "id": "h8s2vuw",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/appengine",
+      "title": "App Engine — 28 frontend instance hours per day, nine backend instance hours per day",
+      "summary": "28 frontend instance hours per day, nine backend instance hours per day",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "h165hp5c",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/firestore",
+      "title": "Cloud Firestore — 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day",
+      "summary": "1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "h1vflz18",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/compute",
+      "title": "Compute Engine — 1 non-preemptible e2-micro, 30GB HDD, 5GB snapshot storage (restricted to certai",
+      "summary": "1 non-preemptible e2-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions), 1 GB network egress from North America to all region destinations (excluding China and Australia) per month",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "hkjuuow",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/storage",
+      "title": "Cloud Storage — 5GB, 1GB network egress",
+      "summary": "5GB, 1GB network egress",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "h19uauhh",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/shell",
+      "title": "Cloud Shell — Web-based Linux shell/primary IDE with 5GB of persistent storage. 60-hour limit ",
+      "summary": "Web-based Linux shell/primary IDE with 5GB of persistent storage. 60-hour limit per week",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "h1ya5wke",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/pubsub",
+      "title": "Cloud Pub/Sub — 10GB of messages per month",
+      "summary": "10GB of messages per month",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "h1897jy8",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/functions",
+      "title": "Cloud Functions — 2 million invocations per month (includes both background and HTTP invocations)",
+      "summary": "2 million invocations per month (includes both background and HTTP invocations)",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "hce32b4",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/run",
+      "title": "Cloud Run — 2 million requests per month, 360,000 GB-seconds memory, 180,000 vCPU-seconds of",
+      "summary": "2 million requests per month, 360,000 GB-seconds memory, 180,000 vCPU-seconds of compute time, 1 GB network egress from North America per month",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "hv2vrny",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/kubernetes-engine",
+      "title": "Google Kubernetes Engine — No cluster management fee for one zonal cluster. Each user node is charged at st",
+      "summary": "No cluster management fee for one zonal cluster. Each user node is charged at standard Compute Engine pricing",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "h1gw59tv",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/bigquery",
+      "title": "BigQuery — 1 TB of querying per month, 10 GB of storage each month",
+      "summary": "1 TB of querying per month, 10 GB of storage each month",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "h19l6q6r",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/build",
+      "title": "Cloud Build — 120 build-minutes per day",
+      "summary": "120 build-minutes per day",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
       "id": "h1iigde4",
       "source": "github-free-for-dev",
       "sourceName": "GitHub 免费清单",
@@ -2013,204 +2211,6 @@
       ]
     },
     {
-      "id": "h1guxlqt",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://www.zoho.com",
-      "title": "Zoho — Started as an e-mail provider but now provides a suite of services, some of whic",
-      "summary": "Started as an e-mail provider but now provides a suite of services, some of which have free plans. List of services having free plans :",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1vkixyt",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://catalyst.zoho.com",
-      "title": "Catalyst by Zoho — PaaS/full-stack cloud platform with a generous free tier",
-      "summary": "PaaS/full-stack cloud platform with a generous free tier",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h10vqujn",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://www.zoho.com/apptics/",
-      "title": "Zoho Apptics — Unified and actionable product analytics to monitor performance, analyze user be",
-      "summary": "Unified and actionable product analytics to monitor performance, analyze user behavior and collect feedback for mobile, web, and desktop apps with generous Free Forever plan.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hxlbnpk",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://zoho.com/mail",
-      "title": "Email — Free for 5 users. 5GB/user & 25 MB attachment limit, one domain.",
-      "summary": "Free for 5 users. 5GB/user & 25 MB attachment limit, one domain.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h2qvbs3",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://www.zoho.com/assist",
-      "title": "Zoho Assist — Zoho Assist's forever free plan includes one concurrent remote support license a",
-      "summary": "Zoho Assist's forever free plan includes one concurrent remote support license and Access to 5 unattended computer licenses for unlimited duration available for both professional and personnel use.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hiwt2w8",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://zoho.com/sprints",
-      "title": "Sprints — Free for 5 users,5 Projects & 500MB storage.",
-      "summary": "Free for 5 users,5 Projects & 500MB storage.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "hxl672k",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://zoho.com/docs",
-      "title": "Docs — Free for 5 users with 1 GB upload limit & 5GB storage. Zoho Office Suite (Writer",
-      "summary": "Free for 5 users with 1 GB upload limit & 5GB storage. Zoho Office Suite (Writer, Sheets & Show) comes bundled.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "huif37v",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://zoho.com/projects",
-      "title": "Projects — Free for 3 users, 2 projects & 10 MB attachment limit. The same plan applies to ",
-      "summary": "Free for 3 users, 2 projects & 10 MB attachment limit. The same plan applies to Bugtracker.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1vnqybd",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://zoho.com/connect",
-      "title": "Connect — Team Collaboration free for 25 users with three groups, three custom apps, 3 Boa",
-      "summary": "Team Collaboration free for 25 users with three groups, three custom apps, 3 Boards, 3 Manuals, and 10 Integrations along with channels, events & forums.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1vi78ga",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://zoho.com/meeting",
-      "title": "Meeting — Meetings with upto 3 meeting participants & 10 Webinar attendees.",
-      "summary": "Meetings with upto 3 meeting participants & 10 Webinar attendees.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
-      "id": "h1b2f1oh",
-      "source": "github-free-for-dev",
-      "sourceName": "GitHub 免费清单",
-      "url": "https://zoho.com/vault",
-      "title": "Vault — Password Management is accessible for Individuals.",
-      "summary": "Password Management is accessible for Individuals.",
-      "kind": "freebie",
-      "category": "cloud",
-      "obtain": "free",
-      "imageUrl": null,
-      "publishedAt": null,
-      "expiresAt": null,
-      "tags": [
-        "github",
-        "Major Cloud Providers"
-      ]
-    },
-    {
       "id": "1257065",
       "source": "v2ex-free",
       "sourceName": "V2EX · 免费赠送",
@@ -2657,340 +2657,340 @@
       ]
     },
     {
-      "id": "hudxdc",
+      "id": "h1bawxa",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071699-1",
-      "title": "[NQ] Isvoro 深夜特价机 MO 网管特工 | 5r/月",
-      "summary": "机器参数名称参数CPU1Core内存1GB流量256GB带宽1GbpsIPv4澳门广播IPx1IPv6台湾广播IPx1价格:5r/月NQ💻基本信息++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[1m硬",
+      "url": "https://www.nodeseek.com/post-1072621-1",
+      "title": "出华东po01188 带鸡险 1800",
+      "summary": "po0到期时间2027-10-1送poHKnano6折价格1800中介自理",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:15:36 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:42:23 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hudvvy",
+      "id": "h1baw6l",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071697-1",
-      "title": "160收一个devin max链接",
-      "summary": "RT",
+      "url": "https://www.nodeseek.com/post-1072620-1",
+      "title": "Gemini反重力 3人车，共三人。140r/月，翻车剩余退尾款",
+      "summary": "土区2949.99tr订阅，谷歌需要美区家庭组，先拉家庭后款。中途翻车这3000里拉我自己消化。要求：不能反代，其他一些官方明确禁止的事。",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:14:45 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:42:17 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hudv59",
+      "id": "h1bafvb",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071696-1",
-      "title": "【车找人】美区 Google AI Ultra 20x 家庭组，6人平分70/月",
-      "summary": "准备开土耳其，AIUltra（30TB），月付70元，6人车补5人，请自备日本区账号，30T平均分，重度使用者勿扰。只招长期车友，短期勿扰，跳车不退，翻车官方退按比例退尾款。YouTubePremium、30TB网盘和网页端，能共享的通通共享。满员建群沟通，希望正常使用，额度相互理解谦让，沟通协调。按月付，翻车按天",
+      "url": "https://www.nodeseek.com/post-1072619-1",
+      "title": "美西CN2 晚高峰TC",
+      "summary": "单线程测速报告链接：https://tcpquality.ibsgss.uk/r/OXBbtX2g_W单线程测速报告链接：https://tcpquality.ibsgss.uk/r/XzTOBj3tqt",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:14:38 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:41:28 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "huduek",
+      "id": "h1baf4m",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071695-1",
-      "title": "tg免费领1个muse ai成品号",
+      "url": "https://www.nodeseek.com/post-1072618-1",
+      "title": "（收）溢价850收DMIT LAX.AN4.Pro.WEE",
+      "summary": "溢价850+残值，我包中介ip正常原邮或者邮改。36.9或者39.9都可以",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Sun, 22 Nov 2026 13:40:19 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1baedx",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1072617-1",
+      "title": "收纽约家宽私信我",
+      "summary": "收纽约家宽私信我",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Sun, 22 Nov 2026 13:40:12 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1badn8",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1072616-1",
+      "title": "联通用日本，晚上哪条线路不炸？",
       "summary": "",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:13:42 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:40:06 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hudtnv",
+      "id": "h1bacwj",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071694-1",
-      "title": "evoxt这是被被人偷流量了嘛",
-      "summary": "偶尔会用用，没有下载，有遇到类似情况的吗，工单说统计是准的，我遇到两次自己超流量了",
+      "url": "https://www.nodeseek.com/post-1072615-1",
+      "title": "GPT-6.2 Astra 太快了",
+      "summary": "3分钟49秒,plus5小时额度直接融化我记得GPT-6Astra都可以撑10多分钟，上个月天天重置养成的坏毛病，ultra天天猛猛用现在老实了",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:13:02 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:39:48 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hudsx6",
+      "id": "h1bac5u",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071693-1",
-      "title": "GPT菲区涨价了？",
-      "summary": "走的官方的订阅，之前都是900多，现在看订阅怎么变成1100了。",
+      "url": "https://www.nodeseek.com/post-1072614-1",
+      "title": "人找车 带前置的IX或IPLC专线车，轻量使用",
+      "summary": "RT有没有那种开车可以分配点轻量使用防失联的套餐，如果长期稳定，也可以尝试上每个月几百G的合租",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:11:29 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:39:41 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "huds6h",
+      "id": "h1babf5",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071692-1",
-      "title": "八达通150HKD羊毛到账了",
-      "summary": "11月17号搞的，今天打开APP发现到账了，没想到活动过了那么久还有名额",
+      "url": "https://www.nodeseek.com/post-1072613-1",
+      "title": "[小鸡测试] OVH KS-LE-6 AMD EPYC Zen1｜附双 NQ 测试",
+      "summary": "最近拿了台OVHKS-LE-6，跑了两份NodeQuality测试，分享给各位MJJ参考。机器配置：CPU：AMDEPYCZen1内存：128GB硬盘：2×1.92TBNVMeRAID0带宽：10G下行500Mbps上行📊NQ测试报告&quot;NQ测试①&quot;(https://nodequality.co",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:11:27 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:38:26 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hudrfs",
+      "id": "h1baaog",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071691-1",
-      "title": "币安6.7收100U---收一个小时吧，现在要用",
+      "url": "https://www.nodeseek.com/post-1072612-1",
+      "title": "不知道是不是个例,用lightlayer sg看不了个别yt视频",
+      "summary": "大部分能看小部分不能,提示未知错误比如https://youtu.be/xprzwNf8PMw?is=3jEZLGT5mETUN8ZH",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Sun, 22 Nov 2026 13:38:11 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1ba9xr",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1072611-1",
+      "title": "未实名的华南po0收得到吗？",
       "summary": "",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:10:35 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:38:09 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hudqp3",
+      "id": "h1ba972",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071690-1",
-      "title": "BBR还是有效果的",
-      "summary": "默认系统配置单线程测速报告链接：https://tcpquality.ibsgss.uk/r/a-wG42sDmE改完之后单线程测速报告链接：https://tcpquality.ibsgss.uk/r/kP71mzScD8用的YT新出的CN2BBR是直接让GPT帮我去装的",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:09:22 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hudadt",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071689-1",
-      "title": "[收]+90 AdsPower 免费5环境",
-      "summary": "RT有出的嘛",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:09:13 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hud9n4",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071688-1",
-      "title": "持币收懒猫GLBB SB",
-      "summary": "RT",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:08:23 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hud8wf",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071687-1",
-      "title": "感觉GPT 6.2sol 比 6.1sol 还笨",
-      "summary": "oai憋了半天拉了坨大的虽然比较耐用",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:08:11 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hud85q",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071686-1",
-      "title": "美区苹果ID大家怎么丝滑注册呢？总是遇到：此时无法创建你的账户。",
-      "summary": "用的家宽|美区实体号码|outlook邮箱",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:07:42 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hud7f1",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071685-1",
-      "title": "黑五大促",
+      "url": "https://www.nodeseek.com/post-1072610-1",
+      "title": "什么时候team才能用上dots,我桌面版有但是手机上就是刷新不出来",
       "summary": "",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:06:23 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:38:07 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hud6oc",
+      "id": "h1b9svs",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071684-1",
-      "title": "何意味？Openrouter",
-      "summary": "能不能邮件发点降价好消息，不要老是这种一眼看过去心里咯噔一下的受攻击邮件......",
+      "url": "https://www.nodeseek.com/post-1072609-1",
+      "title": "大家99USD/年的 google gemini pro都开成功了吗 折腾了半天只看到149USD/年的",
+      "summary": "neon模型出来以后还是可以搞下的以前比较鸡肋",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:06:19 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:37:26 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hud5xn",
+      "id": "h1b9s53",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071683-1",
-      "title": "问问玩AI agent的技术大佬们",
-      "summary": "问问玩AIagent的技术大佬们，我天翼云电脑8H16G150G数据盘7*24小时开机，能拿来当AI的云电脑么？平时做办公，ppt，日常定时信息收集分析，管理vps升级和修复漏洞。模型我没什么付费模型，只有白嫖的museai，geminpro和白山智算白嫖的deepseek4flash的api（几百元额度）。安装什",
+      "url": "https://www.nodeseek.com/post-1072608-1",
+      "title": "【秒出】 出 PPFlight Glide S 创始人套餐",
+      "summary": "出向：电信->CMIN2或者9929动态调整/联通->CUGVIP/移动->CMIN2入向：电信->CN2GIA/联通->CUGVIP/移动->CMIN2月付USD4.50服务到期时间2026-12-05总价50，outlook原邮出流量使用情况：101.85GB/600GB测试",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:05:36 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:37:24 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hud56y",
+      "id": "h1b9ree",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071682-1",
-      "title": "抽2个激活cdk，XiaoMi 3个月gemini pro 竟然可以使用反重力4 很舒服",
-      "summary": "除了caroon模型不能用，其他全部可以使用，立马把手上的几个号全部开通了。明日这个时候开奖另外有需要购买cdk的去51xueai.org自助下单购买即可。明日自动开奖连接：https://www.nodeseek.com/lucky?post=1071682&time=1795410396000&",
+      "url": "https://www.nodeseek.com/post-1072607-1",
+      "title": "三星s26u港版 512代购什么价",
+      "summary": "三星s26u港版512代购什么价？原机多少，加多少，有大佬清楚没，送鸡腿",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:05:35 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:36:59 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hud4g9",
+      "id": "h1b9qnp",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071681-1",
-      "title": "佬：韩国有哪些u卡能够订阅Claude的呀？",
-      "summary": "RT",
+      "url": "https://www.nodeseek.com/post-1072606-1",
+      "title": "【出】Google ultra5 x ios 土区",
+      "summary": "我也不知道多少合适",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:04:46 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:36:34 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hud3pk",
+      "id": "h1b9px0",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071680-1",
-      "title": "天塌了，腾讯云被封",
-      "summary": "广州锐驰，为了测试方便，没有dd系统总共就干了两件事1.nft转发ix22端口2.iperf3测速本地和ix，连续测速几次限速1mbps，然后我就退款了总共使用时间不到1小时，客服说违规原因是vxx",
+      "url": "https://www.nodeseek.com/post-1072605-1",
+      "title": "【NQ】干杯云 148",
+      "summary": "💻基本信息🎬IP质量🌐网络质量📍回程路由🎬流媒体IPv4**正在测试IPv4解锁情况--------------------------------**您的网络为:AT&TInternet(107.208.*.*)============[Multination]============Dazn:",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:04:03 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:35:25 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hucnea",
+      "id": "h1b9p6b",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071679-1",
-      "title": "[出]溢价1100出 OVH KS-LE-6 2×1.92 TB NVMe GRA（IE区）",
-      "summary": "",
+      "url": "https://www.nodeseek.com/post-1072604-1",
+      "title": "350出26、27、28号临期team母号（有周限）",
+      "summary": "埃及二席位，无踢拉。有2个27号周限，想要自用的也可以。",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:03:32 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:35:19 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1b9ofm",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1072603-1",
+      "title": "求助：有没有人知道怎么切换谷歌支付地区",
+      "summary": "想搞googlepro学生优惠，一年720日元，但是死活刷不出来，只有1280日元的",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Sun, 22 Nov 2026 13:32:56 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1b9nox",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1072602-1",
+      "title": "免费领Roam eSIM+手机号",
+      "summary": "每张1GB中国流量+一个奥地利号码我的邀请链接：https://t.me/roam_esim_bot?start=8709104019每邀请1人+1分，5分换一张卡",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Sun, 22 Nov 2026 13:32:37 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
@@ -2999,340 +2999,538 @@
   ],
   "newItems": [
     {
-      "id": "hudxdc",
+      "id": "h8s2vuw",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/appengine",
+      "title": "App Engine — 28 frontend instance hours per day, nine backend instance hours per day",
+      "summary": "28 frontend instance hours per day, nine backend instance hours per day",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "h165hp5c",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/firestore",
+      "title": "Cloud Firestore — 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day",
+      "summary": "1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "h1vflz18",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/compute",
+      "title": "Compute Engine — 1 non-preemptible e2-micro, 30GB HDD, 5GB snapshot storage (restricted to certai",
+      "summary": "1 non-preemptible e2-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions), 1 GB network egress from North America to all region destinations (excluding China and Australia) per month",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "hkjuuow",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/storage",
+      "title": "Cloud Storage — 5GB, 1GB network egress",
+      "summary": "5GB, 1GB network egress",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "h19uauhh",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/shell",
+      "title": "Cloud Shell — Web-based Linux shell/primary IDE with 5GB of persistent storage. 60-hour limit ",
+      "summary": "Web-based Linux shell/primary IDE with 5GB of persistent storage. 60-hour limit per week",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "h1ya5wke",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/pubsub",
+      "title": "Cloud Pub/Sub — 10GB of messages per month",
+      "summary": "10GB of messages per month",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "h1897jy8",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/functions",
+      "title": "Cloud Functions — 2 million invocations per month (includes both background and HTTP invocations)",
+      "summary": "2 million invocations per month (includes both background and HTTP invocations)",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "hce32b4",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/run",
+      "title": "Cloud Run — 2 million requests per month, 360,000 GB-seconds memory, 180,000 vCPU-seconds of",
+      "summary": "2 million requests per month, 360,000 GB-seconds memory, 180,000 vCPU-seconds of compute time, 1 GB network egress from North America per month",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "hv2vrny",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/kubernetes-engine",
+      "title": "Google Kubernetes Engine — No cluster management fee for one zonal cluster. Each user node is charged at st",
+      "summary": "No cluster management fee for one zonal cluster. Each user node is charged at standard Compute Engine pricing",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "h1gw59tv",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/bigquery",
+      "title": "BigQuery — 1 TB of querying per month, 10 GB of storage each month",
+      "summary": "1 TB of querying per month, 10 GB of storage each month",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "h19l6q6r",
+      "source": "github-free-for-dev",
+      "sourceName": "GitHub 免费清单",
+      "url": "https://cloud.google.com/build",
+      "title": "Cloud Build — 120 build-minutes per day",
+      "summary": "120 build-minutes per day",
+      "kind": "freebie",
+      "category": "cloud",
+      "obtain": "free",
+      "imageUrl": null,
+      "publishedAt": null,
+      "expiresAt": null,
+      "tags": [
+        "github",
+        "Major Cloud Providers"
+      ]
+    },
+    {
+      "id": "h1bawxa",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071699-1",
-      "title": "[NQ] Isvoro 深夜特价机 MO 网管特工 | 5r/月",
-      "summary": "机器参数名称参数CPU1Core内存1GB流量256GB带宽1GbpsIPv4澳门广播IPx1IPv6台湾广播IPx1价格:5r/月NQ💻基本信息++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[1m硬",
+      "url": "https://www.nodeseek.com/post-1072621-1",
+      "title": "出华东po01188 带鸡险 1800",
+      "summary": "po0到期时间2027-10-1送poHKnano6折价格1800中介自理",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:15:36 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:42:23 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hudvvy",
+      "id": "h1baw6l",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071697-1",
-      "title": "160收一个devin max链接",
-      "summary": "RT",
+      "url": "https://www.nodeseek.com/post-1072620-1",
+      "title": "Gemini反重力 3人车，共三人。140r/月，翻车剩余退尾款",
+      "summary": "土区2949.99tr订阅，谷歌需要美区家庭组，先拉家庭后款。中途翻车这3000里拉我自己消化。要求：不能反代，其他一些官方明确禁止的事。",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:14:45 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:42:17 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hudv59",
+      "id": "h1bafvb",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071696-1",
-      "title": "【车找人】美区 Google AI Ultra 20x 家庭组，6人平分70/月",
-      "summary": "准备开土耳其，AIUltra（30TB），月付70元，6人车补5人，请自备日本区账号，30T平均分，重度使用者勿扰。只招长期车友，短期勿扰，跳车不退，翻车官方退按比例退尾款。YouTubePremium、30TB网盘和网页端，能共享的通通共享。满员建群沟通，希望正常使用，额度相互理解谦让，沟通协调。按月付，翻车按天",
+      "url": "https://www.nodeseek.com/post-1072619-1",
+      "title": "美西CN2 晚高峰TC",
+      "summary": "单线程测速报告链接：https://tcpquality.ibsgss.uk/r/OXBbtX2g_W单线程测速报告链接：https://tcpquality.ibsgss.uk/r/XzTOBj3tqt",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:14:38 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:41:28 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "huduek",
+      "id": "h1baf4m",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071695-1",
-      "title": "tg免费领1个muse ai成品号",
+      "url": "https://www.nodeseek.com/post-1072618-1",
+      "title": "（收）溢价850收DMIT LAX.AN4.Pro.WEE",
+      "summary": "溢价850+残值，我包中介ip正常原邮或者邮改。36.9或者39.9都可以",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Sun, 22 Nov 2026 13:40:19 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1baedx",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1072617-1",
+      "title": "收纽约家宽私信我",
+      "summary": "收纽约家宽私信我",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Sun, 22 Nov 2026 13:40:12 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1badn8",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1072616-1",
+      "title": "联通用日本，晚上哪条线路不炸？",
       "summary": "",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:13:42 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:40:06 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hudtnv",
+      "id": "h1bacwj",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071694-1",
-      "title": "evoxt这是被被人偷流量了嘛",
-      "summary": "偶尔会用用，没有下载，有遇到类似情况的吗，工单说统计是准的，我遇到两次自己超流量了",
+      "url": "https://www.nodeseek.com/post-1072615-1",
+      "title": "GPT-6.2 Astra 太快了",
+      "summary": "3分钟49秒,plus5小时额度直接融化我记得GPT-6Astra都可以撑10多分钟，上个月天天重置养成的坏毛病，ultra天天猛猛用现在老实了",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:13:02 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:39:48 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hudsx6",
+      "id": "h1bac5u",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071693-1",
-      "title": "GPT菲区涨价了？",
-      "summary": "走的官方的订阅，之前都是900多，现在看订阅怎么变成1100了。",
+      "url": "https://www.nodeseek.com/post-1072614-1",
+      "title": "人找车 带前置的IX或IPLC专线车，轻量使用",
+      "summary": "RT有没有那种开车可以分配点轻量使用防失联的套餐，如果长期稳定，也可以尝试上每个月几百G的合租",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:11:29 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:39:41 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "huds6h",
+      "id": "h1babf5",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071692-1",
-      "title": "八达通150HKD羊毛到账了",
-      "summary": "11月17号搞的，今天打开APP发现到账了，没想到活动过了那么久还有名额",
+      "url": "https://www.nodeseek.com/post-1072613-1",
+      "title": "[小鸡测试] OVH KS-LE-6 AMD EPYC Zen1｜附双 NQ 测试",
+      "summary": "最近拿了台OVHKS-LE-6，跑了两份NodeQuality测试，分享给各位MJJ参考。机器配置：CPU：AMDEPYCZen1内存：128GB硬盘：2×1.92TBNVMeRAID0带宽：10G下行500Mbps上行📊NQ测试报告&quot;NQ测试①&quot;(https://nodequality.co",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:11:27 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:38:26 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hudrfs",
+      "id": "h1baaog",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071691-1",
-      "title": "币安6.7收100U---收一个小时吧，现在要用",
+      "url": "https://www.nodeseek.com/post-1072612-1",
+      "title": "不知道是不是个例,用lightlayer sg看不了个别yt视频",
+      "summary": "大部分能看小部分不能,提示未知错误比如https://youtu.be/xprzwNf8PMw?is=3jEZLGT5mETUN8ZH",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Sun, 22 Nov 2026 13:38:11 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1ba9xr",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1072611-1",
+      "title": "未实名的华南po0收得到吗？",
       "summary": "",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:10:35 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:38:09 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hudqp3",
+      "id": "h1ba972",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071690-1",
-      "title": "BBR还是有效果的",
-      "summary": "默认系统配置单线程测速报告链接：https://tcpquality.ibsgss.uk/r/a-wG42sDmE改完之后单线程测速报告链接：https://tcpquality.ibsgss.uk/r/kP71mzScD8用的YT新出的CN2BBR是直接让GPT帮我去装的",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:09:22 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hudadt",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071689-1",
-      "title": "[收]+90 AdsPower 免费5环境",
-      "summary": "RT有出的嘛",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:09:13 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hud9n4",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071688-1",
-      "title": "持币收懒猫GLBB SB",
-      "summary": "RT",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:08:23 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hud8wf",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071687-1",
-      "title": "感觉GPT 6.2sol 比 6.1sol 还笨",
-      "summary": "oai憋了半天拉了坨大的虽然比较耐用",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:08:11 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hud85q",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071686-1",
-      "title": "美区苹果ID大家怎么丝滑注册呢？总是遇到：此时无法创建你的账户。",
-      "summary": "用的家宽|美区实体号码|outlook邮箱",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:07:42 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hud7f1",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071685-1",
-      "title": "黑五大促",
+      "url": "https://www.nodeseek.com/post-1072610-1",
+      "title": "什么时候team才能用上dots,我桌面版有但是手机上就是刷新不出来",
       "summary": "",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:06:23 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:38:07 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hud6oc",
+      "id": "h1b9svs",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071684-1",
-      "title": "何意味？Openrouter",
-      "summary": "能不能邮件发点降价好消息，不要老是这种一眼看过去心里咯噔一下的受攻击邮件......",
+      "url": "https://www.nodeseek.com/post-1072609-1",
+      "title": "大家99USD/年的 google gemini pro都开成功了吗 折腾了半天只看到149USD/年的",
+      "summary": "neon模型出来以后还是可以搞下的以前比较鸡肋",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:06:19 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:37:26 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hud5xn",
+      "id": "h1b9s53",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071683-1",
-      "title": "问问玩AI agent的技术大佬们",
-      "summary": "问问玩AIagent的技术大佬们，我天翼云电脑8H16G150G数据盘7*24小时开机，能拿来当AI的云电脑么？平时做办公，ppt，日常定时信息收集分析，管理vps升级和修复漏洞。模型我没什么付费模型，只有白嫖的museai，geminpro和白山智算白嫖的deepseek4flash的api（几百元额度）。安装什",
+      "url": "https://www.nodeseek.com/post-1072608-1",
+      "title": "【秒出】 出 PPFlight Glide S 创始人套餐",
+      "summary": "出向：电信->CMIN2或者9929动态调整/联通->CUGVIP/移动->CMIN2入向：电信->CN2GIA/联通->CUGVIP/移动->CMIN2月付USD4.50服务到期时间2026-12-05总价50，outlook原邮出流量使用情况：101.85GB/600GB测试",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:05:36 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:37:24 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hud56y",
+      "id": "h1b9ree",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071682-1",
-      "title": "抽2个激活cdk，XiaoMi 3个月gemini pro 竟然可以使用反重力4 很舒服",
-      "summary": "除了caroon模型不能用，其他全部可以使用，立马把手上的几个号全部开通了。明日这个时候开奖另外有需要购买cdk的去51xueai.org自助下单购买即可。明日自动开奖连接：https://www.nodeseek.com/lucky?post=1071682&time=1795410396000&",
+      "url": "https://www.nodeseek.com/post-1072607-1",
+      "title": "三星s26u港版 512代购什么价",
+      "summary": "三星s26u港版512代购什么价？原机多少，加多少，有大佬清楚没，送鸡腿",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:05:35 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:36:59 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hud4g9",
+      "id": "h1b9qnp",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071681-1",
-      "title": "佬：韩国有哪些u卡能够订阅Claude的呀？",
-      "summary": "RT",
+      "url": "https://www.nodeseek.com/post-1072606-1",
+      "title": "【出】Google ultra5 x ios 土区",
+      "summary": "我也不知道多少合适",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:04:46 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:36:34 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hud3pk",
+      "id": "h1b9px0",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071680-1",
-      "title": "天塌了，腾讯云被封",
-      "summary": "广州锐驰，为了测试方便，没有dd系统总共就干了两件事1.nft转发ix22端口2.iperf3测速本地和ix，连续测速几次限速1mbps，然后我就退款了总共使用时间不到1小时，客服说违规原因是vxx",
+      "url": "https://www.nodeseek.com/post-1072605-1",
+      "title": "【NQ】干杯云 148",
+      "summary": "💻基本信息🎬IP质量🌐网络质量📍回程路由🎬流媒体IPv4**正在测试IPv4解锁情况--------------------------------**您的网络为:AT&TInternet(107.208.*.*)============[Multination]============Dazn:",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:04:03 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:35:25 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hucnea",
+      "id": "h1b9p6b",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1071679-1",
-      "title": "[出]溢价1100出 OVH KS-LE-6 2×1.92 TB NVMe GRA（IE区）",
-      "summary": "",
+      "url": "https://www.nodeseek.com/post-1072604-1",
+      "title": "350出26、27、28号临期team母号（有周限）",
+      "summary": "埃及二席位，无踢拉。有2个27号周限，想要自用的也可以。",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Sun, 22 Nov 2026 05:03:32 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 13:35:19 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1b9ofm",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1072603-1",
+      "title": "求助：有没有人知道怎么切换谷歌支付地区",
+      "summary": "想搞googlepro学生优惠，一年720日元，但是死活刷不出来，只有1280日元的",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Sun, 22 Nov 2026 13:32:56 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "h1b9nox",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1072602-1",
+      "title": "免费领Roam eSIM+手机号",
+      "summary": "每张1GB中国流量+一个奥地利号码我的邀请链接：https://t.me/roam_esim_bot?start=8709104019每邀请1人+1分，5分换一张卡",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Sun, 22 Nov 2026 13:32:37 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
