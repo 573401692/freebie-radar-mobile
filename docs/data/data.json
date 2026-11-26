@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T16:23:16.037Z",
-  "startedAt": "2026-11-25T16:23:13.684Z",
+  "generatedAt": "2026-11-26T01:16:43.776Z",
+  "startedAt": "2026-11-26T01:16:42.728Z",
   "total": 166,
   "newCount": 20,
   "stats": {
@@ -2657,340 +2657,340 @@
       ]
     },
     {
-      "id": "hf3byb7",
+      "id": "hfh1gy3",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080964-1",
-      "title": "有没有系统学习AI Agent的教程？",
-      "summary": "比如如何更高效、精准的指挥AI如何搭建多AI协助的agent",
+      "url": "https://www.nodeseek.com/post-1081341-1",
+      "title": "1password又被黑了",
+      "summary": "2026年11月19日，1Password开始调查攻击者获得一名员工公司GitHub账户访问权限的迹象。该行为者利用该账户访问源代码，并将恶意代码推送到后端服务，后端服务下载了与我们客户相关的管理数据。这些数据包括客户姓名和电子邮件地址，以及账户的非秘密内部元数据。",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:23:01 GMT",
+      "publishedAt": "Thu, 26 Nov 2026 01:15:55 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hf3bxki",
+      "id": "hfh1g7e",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080963-1",
-      "title": "[稳]多邻国强制绑定➕86手机号咋办",
-      "summary": "rt🤔play商店下载的谷歌登录的但绑定手机号就要➕86全局已开谷歌号在全局环境下注册的🤔",
+      "url": "https://www.nodeseek.com/post-1081340-1",
+      "title": "NQ：13th Birthday Sale - 1313 SJC",
+      "summary": "💻基本信息++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[1m硬件质量体检报告：[36m173.249.*.*[0m[4mhttps://github.com/xykt/HardwareQuality",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:22:52 GMT",
+      "publishedAt": "Thu, 26 Nov 2026 01:14:49 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hf3bwtt",
+      "id": "hfh0zw4",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080962-1",
-      "title": "什么叫一天杀我两次",
+      "url": "https://www.nodeseek.com/post-1081339-1",
+      "title": "Lightlayer过白",
+      "summary": "大家赶紧查查自己探针和路由，听说昨晚上已经全部过白",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:13:57 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0z5f",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081338-1",
+      "title": "[180出]懒猫 狗妈 香港.HKG-3 一折中杯",
+      "summary": "不玩了，出掉。要的私信计费信息付费方式月付实例价格¥4.60续费价格¥4.60绑定的优惠码LC-TFFHG3CKWWX91折(-90%)循环",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:13:44 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0yeq",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081337-1",
+      "title": "【溢价++ 300】收 DMIT TYO AS3 Pro TINY（21.9 刀那款）",
+      "summary": "+300收DMITTYOAS3ProTINY（可立即改邮）收DMITTYOAS3ProTINY，$21.9/月那款，溢价300。走NS中介，中介费我出",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:13:33 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0xo1",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081336-1",
+      "title": "grok-CLI无法连接的问题",
+      "summary": "国内,grok-CLI无法连接的问题大家有没有遇到类似问题",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:13:20 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0wxc",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081335-1",
+      "title": "车找人 Gemini pro 日区只用网页，一年30",
+      "summary": "如题车找人Geminipro日区只用网页，一年30",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:13:01 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0w6n",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081334-1",
+      "title": "求分享 ovh ca 的注册指引",
+      "summary": "最近看到ovh的黑五大鸡鸡口水直流，可惜没有账号搜了论坛，只看到有一个大佬分享了IE区的注册方式，求CA的注册指引问Gemini，ChatGPT好像回答也不是很准确",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:12:28 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0vfy",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081333-1",
+      "title": "关于黑五Gemini pro订阅",
+      "summary": "话说黑五Geminipro订阅一年合不合适啊，之前3.5pro炼炸炉的前车之鉴真给我整怕了",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:11:40 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0up9",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081332-1",
+      "title": "探针到底用哪吒还是 uptime-kuma？只想要个能推 TG 的简单告警",
+      "summary": "手上三台小鸡，之前用uptime-kuma，国内访问经常转圈，换成哪吒又要装面板、配agent，写着写着觉得比业务还重。需求很简单：掉线能推TG、别占资源。kuma现在有推送但有坑（国内访问慢），哪吒功能多但全家桶。大佬们平时都怎么搞的？还是直接自己写个crontab+curl打webhook最省事？",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:11:32 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0tyk",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081331-1",
+      "title": "AI中转站注册赠送都降到 $0.1 了，咋还有人批量注册薅啊",
+      "summary": "做了个AI中转站，本来想送点额度，让有需要的人先试试模型效果，合适再充值。结果从最开始送$5，到后来改成¥2，再降到¥1、¥0.5、¥0.2、¥0.1，批量注册的就没断过。现在送$0.1，还是有人来薅。实在有点绷不住，额度已经这么少了，怎么还能被盯上，各位大神有解决办法吗",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:11:15 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0t7v",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081330-1",
+      "title": "出门连家里的 NAS，Tailscale 走中继够用吗？",
+      "summary": "如果平时在外面只是翻翻文件，偶尔远程操作一下电脑，有必要专门折腾直连吗？想听听长期用Tailscale的朋友，你们觉得中继什么时候开始明显拖后腿？是拷大文件，还是远程桌面一动就能感觉出来？",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:11:09 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0cwl",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081329-1",
+      "title": "[剩余价值7折收] Gomami JPN.Pulse.Mini 年付循环8折",
+      "summary": "如题中介我出",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:11:06 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0c5w",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081328-1",
+      "title": "小鸡的流量，你们平时看商家面板还是自己记？",
+      "summary": "想给小鸡设个流量提醒，怕机器上看着还有余量，商家面板已经快见底了。你们平时只看面板，还是也会自己记一份？如果两边差挺多，最后有查出来是哪边把进出流量都算了，还是统计时间对不上吗？",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:10:46 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0bf7",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081327-1",
+      "title": "[测评留档]Tungstencloud的FR.KVM.1H1G15GB",
+      "summary": "机器应该是法国OVH母鸡切出来的1H1G15GB1000Mbps不限流独立V4+两个独立V6只需要月付8元商家经营不善、马上V4就不给了，只剩V6V4的IP地址送中了拉了一个月终于拉回了法国，结果被通知V4不给了系统信息详情主机名:localhost运营商:AS198588HangzhouTungstenCloud",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:09:28 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0aoi",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081326-1",
+      "title": "【出】15出 喵云 HKT-Micro家宽NAT 6折款",
+      "summary": "摸完就出配置1核/512M/10GBSSD网络带宽300M共享每月流量2000G双向续费价格¥7.74/月到期时间2026-12-11",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:08:59 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh09xt",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081325-1",
+      "title": "恭喜升级",
+      "summary": "历时2天升到1级，升级下一级要400个大鸡腿了才反应过来这个论坛是从0级开始的论坛老板是技术人员吧",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:08:54 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0974",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081324-1",
+      "title": "哪些兄弟昨天被爆仓了的",
       "summary": "",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:21:59 GMT",
+      "publishedAt": "Thu, 26 Nov 2026 01:08:47 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hf3bw34",
+      "id": "hfh08gf",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080961-1",
-      "title": "bot恢复了 ！！！赶紧搞",
-      "summary": "https://t.me/sondevstorebot?start=ref_7548529502可能过一会又要维护这会正常能刷快搞兄弟们",
+      "url": "https://www.nodeseek.com/post-1081323-1",
+      "title": "周一买的VMISS 香港国际路线，做一下基础测评",
+      "summary": "VMISS-HK网络检测与安全加固完整报告测试对象：VPS-VMISS-1C-1G（中国香港）报告日期：2025-11-23.报告版本：v3完整版（全量实测记录）数据来源：服务器侧实测+本机端到端验证（报告由gpt-6.1-sol+DeepseekV4.1-Flash完成）实验结论：低质量VPS，营销与实测偏差巨大",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:21:12 GMT",
+      "publishedAt": "Thu, 26 Nov 2026 01:08:20 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hf3bvcf",
+      "id": "hfh07pq",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080960-1",
-      "title": "【NQ】EUK 2C4G 50G 无限流量 ovh 原生 双栈",
-      "summary": "",
+      "url": "https://www.nodeseek.com/post-1081322-1",
+      "title": "分享一个chatgpt降智检测",
+      "summary": "https://lm.ikale.io/这个最近貌似很，我看结果也比较准确，我一个速刷号，我觉得不太对劲测了下路由到5.6luna了",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:20:53 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3bf15",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080959-1",
-      "title": "【收】+10 收 nuyek 11刀/年",
-      "summary": "rt愿意出的佬，可以PM同时愿意出bero12o1c2g的也可以PM我",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:20:52 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3beag",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080958-1",
-      "title": "收一台 datawave jp std bf-a",
-      "summary": "年付108那个，吃灰的快来丢给我",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:20:46 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3bdjr",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080957-1",
-      "title": "Pi好用还是dsh好用",
-      "summary": "反代用，之前用过dsh感觉上下文多了就很卡，不知道Pi会不会好点",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:20:17 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3bct2",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080956-1",
-      "title": "[NQ-ucloud] ucloud 2C4G 5M 香港测评",
-      "summary": "💻基本信息🎬IP质量🌐网络质量📍回程路由NodeQuality链接",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:19:32 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3bc2d",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080955-1",
-      "title": "收个土区可以订阅gemini ultra的appleid或者成品号",
-      "summary": "收个土区可以订阅geminiultra的appleid或者成品号，带价来",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:17:40 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3bbbo",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080954-1",
-      "title": "最近沉迷修仙短剧，推荐一个 PC版 保护视力。",
-      "summary": "用显示器看，没手机伤眼。https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:17:28 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3bakz",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080953-1",
-      "title": "Google Ultra x20搞多了，有要的吗？发现根本用不完",
-      "summary": "如题，搞了好几个x20ultra，发现根本蹬不完呀，有需要的吗，可以拉家庭组或者出号，独享！",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:17:18 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3b9ua",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080952-1",
-      "title": "ppflight 美国 s2 5.4刀ip质量测试",
-      "summary": "💻基本信息++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[1m硬件质量体检报告：[36m68.164.*.*[0m[4mhttps://github.com/xykt/HardwareQuality[",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:16:22 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3b93l",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080951-1",
-      "title": "看大家都在要CUE邀请码分享一下",
-      "summary": "Cue是我的个人AIAgent，帮我处理邮件、电话和各种任务。前往下载https://cue.im/当前仅限邀请加入，你的邀请码：YH449",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:15:40 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3b8cw",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080950-1",
-      "title": "30收一台 PPFlight lax lift minimo 6.99",
-      "summary": "有佬愿意忍痛割爱嘛，push费我这边可出，被Q了的也可以",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:14:48 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3as1m",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080949-1",
-      "title": "这是被钓鱼了吗？发件人又是谷歌官方啊",
-      "summary": "先后收到了三封邮件，都是谷歌官方邮箱发的，然后第三封说双方可以重置对方的密码，搞得的怕怕的，看了又看那个链接，还是谷歌官方的链接，点开以后，是跳转到辅助邮箱，发现里面也是空的，怕还是钓鱼软件，又赶紧改了两遍密码。实在没搞明白这是什么个情况。想问下，这是钓鱼软件吗？这官方的链接点了有什么问题吗？第一封发件人works",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:14:47 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3arax",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080948-1",
-      "title": "2026的黑五 是不是已经结束了？为什么没看到常见商家的活动？",
-      "summary": "推送机器人推的都是啥，几十个商家就没一个认识的，今天推了ccs，终于有个我认识的了",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:14:37 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3aqk8",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080947-1",
-      "title": "AWS光帆, 除了日本和新加坡, 还有哪些地方可以开的?",
-      "summary": "RT,欧洲/大洋洲怎么样?",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:13:21 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3aptj",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080946-1",
-      "title": "gemini地区问题",
-      "summary": "国家/地区版本：美国付款资料是日本代理用日本或者美国都死活显示港币怎么搞",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:13:18 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3ap2u",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080945-1",
-      "title": "【nodequality】dedirock 12.88刀/年 Promo 1C 2G LA",
-      "summary": "💻基本信息++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[1m硬件质量体检报告：[36m107.173.*.*[0m[4mhttps://github.com/xykt/HardwareQuality",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:13:06 GMT",
+      "publishedAt": "Thu, 26 Nov 2026 01:08:00 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
@@ -2999,340 +2999,340 @@
   ],
   "newItems": [
     {
-      "id": "hf3byb7",
+      "id": "hfh1gy3",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080964-1",
-      "title": "有没有系统学习AI Agent的教程？",
-      "summary": "比如如何更高效、精准的指挥AI如何搭建多AI协助的agent",
+      "url": "https://www.nodeseek.com/post-1081341-1",
+      "title": "1password又被黑了",
+      "summary": "2026年11月19日，1Password开始调查攻击者获得一名员工公司GitHub账户访问权限的迹象。该行为者利用该账户访问源代码，并将恶意代码推送到后端服务，后端服务下载了与我们客户相关的管理数据。这些数据包括客户姓名和电子邮件地址，以及账户的非秘密内部元数据。",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:23:01 GMT",
+      "publishedAt": "Thu, 26 Nov 2026 01:15:55 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hf3bxki",
+      "id": "hfh1g7e",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080963-1",
-      "title": "[稳]多邻国强制绑定➕86手机号咋办",
-      "summary": "rt🤔play商店下载的谷歌登录的但绑定手机号就要➕86全局已开谷歌号在全局环境下注册的🤔",
+      "url": "https://www.nodeseek.com/post-1081340-1",
+      "title": "NQ：13th Birthday Sale - 1313 SJC",
+      "summary": "💻基本信息++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[1m硬件质量体检报告：[36m173.249.*.*[0m[4mhttps://github.com/xykt/HardwareQuality",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:22:52 GMT",
+      "publishedAt": "Thu, 26 Nov 2026 01:14:49 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hf3bwtt",
+      "id": "hfh0zw4",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080962-1",
-      "title": "什么叫一天杀我两次",
+      "url": "https://www.nodeseek.com/post-1081339-1",
+      "title": "Lightlayer过白",
+      "summary": "大家赶紧查查自己探针和路由，听说昨晚上已经全部过白",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:13:57 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0z5f",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081338-1",
+      "title": "[180出]懒猫 狗妈 香港.HKG-3 一折中杯",
+      "summary": "不玩了，出掉。要的私信计费信息付费方式月付实例价格¥4.60续费价格¥4.60绑定的优惠码LC-TFFHG3CKWWX91折(-90%)循环",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:13:44 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0yeq",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081337-1",
+      "title": "【溢价++ 300】收 DMIT TYO AS3 Pro TINY（21.9 刀那款）",
+      "summary": "+300收DMITTYOAS3ProTINY（可立即改邮）收DMITTYOAS3ProTINY，$21.9/月那款，溢价300。走NS中介，中介费我出",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:13:33 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0xo1",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081336-1",
+      "title": "grok-CLI无法连接的问题",
+      "summary": "国内,grok-CLI无法连接的问题大家有没有遇到类似问题",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:13:20 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0wxc",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081335-1",
+      "title": "车找人 Gemini pro 日区只用网页，一年30",
+      "summary": "如题车找人Geminipro日区只用网页，一年30",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:13:01 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0w6n",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081334-1",
+      "title": "求分享 ovh ca 的注册指引",
+      "summary": "最近看到ovh的黑五大鸡鸡口水直流，可惜没有账号搜了论坛，只看到有一个大佬分享了IE区的注册方式，求CA的注册指引问Gemini，ChatGPT好像回答也不是很准确",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:12:28 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0vfy",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081333-1",
+      "title": "关于黑五Gemini pro订阅",
+      "summary": "话说黑五Geminipro订阅一年合不合适啊，之前3.5pro炼炸炉的前车之鉴真给我整怕了",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:11:40 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0up9",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081332-1",
+      "title": "探针到底用哪吒还是 uptime-kuma？只想要个能推 TG 的简单告警",
+      "summary": "手上三台小鸡，之前用uptime-kuma，国内访问经常转圈，换成哪吒又要装面板、配agent，写着写着觉得比业务还重。需求很简单：掉线能推TG、别占资源。kuma现在有推送但有坑（国内访问慢），哪吒功能多但全家桶。大佬们平时都怎么搞的？还是直接自己写个crontab+curl打webhook最省事？",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:11:32 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0tyk",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081331-1",
+      "title": "AI中转站注册赠送都降到 $0.1 了，咋还有人批量注册薅啊",
+      "summary": "做了个AI中转站，本来想送点额度，让有需要的人先试试模型效果，合适再充值。结果从最开始送$5，到后来改成¥2，再降到¥1、¥0.5、¥0.2、¥0.1，批量注册的就没断过。现在送$0.1，还是有人来薅。实在有点绷不住，额度已经这么少了，怎么还能被盯上，各位大神有解决办法吗",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:11:15 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0t7v",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081330-1",
+      "title": "出门连家里的 NAS，Tailscale 走中继够用吗？",
+      "summary": "如果平时在外面只是翻翻文件，偶尔远程操作一下电脑，有必要专门折腾直连吗？想听听长期用Tailscale的朋友，你们觉得中继什么时候开始明显拖后腿？是拷大文件，还是远程桌面一动就能感觉出来？",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:11:09 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0cwl",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081329-1",
+      "title": "[剩余价值7折收] Gomami JPN.Pulse.Mini 年付循环8折",
+      "summary": "如题中介我出",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:11:06 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0c5w",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081328-1",
+      "title": "小鸡的流量，你们平时看商家面板还是自己记？",
+      "summary": "想给小鸡设个流量提醒，怕机器上看着还有余量，商家面板已经快见底了。你们平时只看面板，还是也会自己记一份？如果两边差挺多，最后有查出来是哪边把进出流量都算了，还是统计时间对不上吗？",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:10:46 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0bf7",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081327-1",
+      "title": "[测评留档]Tungstencloud的FR.KVM.1H1G15GB",
+      "summary": "机器应该是法国OVH母鸡切出来的1H1G15GB1000Mbps不限流独立V4+两个独立V6只需要月付8元商家经营不善、马上V4就不给了，只剩V6V4的IP地址送中了拉了一个月终于拉回了法国，结果被通知V4不给了系统信息详情主机名:localhost运营商:AS198588HangzhouTungstenCloud",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:09:28 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0aoi",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081326-1",
+      "title": "【出】15出 喵云 HKT-Micro家宽NAT 6折款",
+      "summary": "摸完就出配置1核/512M/10GBSSD网络带宽300M共享每月流量2000G双向续费价格¥7.74/月到期时间2026-12-11",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:08:59 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh09xt",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081325-1",
+      "title": "恭喜升级",
+      "summary": "历时2天升到1级，升级下一级要400个大鸡腿了才反应过来这个论坛是从0级开始的论坛老板是技术人员吧",
+      "kind": "freebie",
+      "category": "vps",
+      "obtain": "conditional",
+      "imageUrl": null,
+      "publishedAt": "Thu, 26 Nov 2026 01:08:54 GMT",
+      "expiresAt": null,
+      "tags": [
+        "nodeseek"
+      ]
+    },
+    {
+      "id": "hfh0974",
+      "source": "nodeseek",
+      "sourceName": "NodeSeek · 福利",
+      "url": "https://www.nodeseek.com/post-1081324-1",
+      "title": "哪些兄弟昨天被爆仓了的",
       "summary": "",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:21:59 GMT",
+      "publishedAt": "Thu, 26 Nov 2026 01:08:47 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hf3bw34",
+      "id": "hfh08gf",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080961-1",
-      "title": "bot恢复了 ！！！赶紧搞",
-      "summary": "https://t.me/sondevstorebot?start=ref_7548529502可能过一会又要维护这会正常能刷快搞兄弟们",
+      "url": "https://www.nodeseek.com/post-1081323-1",
+      "title": "周一买的VMISS 香港国际路线，做一下基础测评",
+      "summary": "VMISS-HK网络检测与安全加固完整报告测试对象：VPS-VMISS-1C-1G（中国香港）报告日期：2025-11-23.报告版本：v3完整版（全量实测记录）数据来源：服务器侧实测+本机端到端验证（报告由gpt-6.1-sol+DeepseekV4.1-Flash完成）实验结论：低质量VPS，营销与实测偏差巨大",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:21:12 GMT",
+      "publishedAt": "Thu, 26 Nov 2026 01:08:20 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
       ]
     },
     {
-      "id": "hf3bvcf",
+      "id": "hfh07pq",
       "source": "nodeseek",
       "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080960-1",
-      "title": "【NQ】EUK 2C4G 50G 无限流量 ovh 原生 双栈",
-      "summary": "",
+      "url": "https://www.nodeseek.com/post-1081322-1",
+      "title": "分享一个chatgpt降智检测",
+      "summary": "https://lm.ikale.io/这个最近貌似很，我看结果也比较准确，我一个速刷号，我觉得不太对劲测了下路由到5.6luna了",
       "kind": "freebie",
       "category": "vps",
       "obtain": "conditional",
       "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:20:53 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3bf15",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080959-1",
-      "title": "【收】+10 收 nuyek 11刀/年",
-      "summary": "rt愿意出的佬，可以PM同时愿意出bero12o1c2g的也可以PM我",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:20:52 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3beag",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080958-1",
-      "title": "收一台 datawave jp std bf-a",
-      "summary": "年付108那个，吃灰的快来丢给我",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:20:46 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3bdjr",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080957-1",
-      "title": "Pi好用还是dsh好用",
-      "summary": "反代用，之前用过dsh感觉上下文多了就很卡，不知道Pi会不会好点",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:20:17 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3bct2",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080956-1",
-      "title": "[NQ-ucloud] ucloud 2C4G 5M 香港测评",
-      "summary": "💻基本信息🎬IP质量🌐网络质量📍回程路由NodeQuality链接",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:19:32 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3bc2d",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080955-1",
-      "title": "收个土区可以订阅gemini ultra的appleid或者成品号",
-      "summary": "收个土区可以订阅geminiultra的appleid或者成品号，带价来",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:17:40 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3bbbo",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080954-1",
-      "title": "最近沉迷修仙短剧，推荐一个 PC版 保护视力。",
-      "summary": "用显示器看，没手机伤眼。https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:17:28 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3bakz",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080953-1",
-      "title": "Google Ultra x20搞多了，有要的吗？发现根本用不完",
-      "summary": "如题，搞了好几个x20ultra，发现根本蹬不完呀，有需要的吗，可以拉家庭组或者出号，独享！",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:17:18 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3b9ua",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080952-1",
-      "title": "ppflight 美国 s2 5.4刀ip质量测试",
-      "summary": "💻基本信息++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[1m硬件质量体检报告：[36m68.164.*.*[0m[4mhttps://github.com/xykt/HardwareQuality[",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:16:22 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3b93l",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080951-1",
-      "title": "看大家都在要CUE邀请码分享一下",
-      "summary": "Cue是我的个人AIAgent，帮我处理邮件、电话和各种任务。前往下载https://cue.im/当前仅限邀请加入，你的邀请码：YH449",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:15:40 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3b8cw",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080950-1",
-      "title": "30收一台 PPFlight lax lift minimo 6.99",
-      "summary": "有佬愿意忍痛割爱嘛，push费我这边可出，被Q了的也可以",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:14:48 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3as1m",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080949-1",
-      "title": "这是被钓鱼了吗？发件人又是谷歌官方啊",
-      "summary": "先后收到了三封邮件，都是谷歌官方邮箱发的，然后第三封说双方可以重置对方的密码，搞得的怕怕的，看了又看那个链接，还是谷歌官方的链接，点开以后，是跳转到辅助邮箱，发现里面也是空的，怕还是钓鱼软件，又赶紧改了两遍密码。实在没搞明白这是什么个情况。想问下，这是钓鱼软件吗？这官方的链接点了有什么问题吗？第一封发件人works",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:14:47 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3arax",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080948-1",
-      "title": "2026的黑五 是不是已经结束了？为什么没看到常见商家的活动？",
-      "summary": "推送机器人推的都是啥，几十个商家就没一个认识的，今天推了ccs，终于有个我认识的了",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:14:37 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3aqk8",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080947-1",
-      "title": "AWS光帆, 除了日本和新加坡, 还有哪些地方可以开的?",
-      "summary": "RT,欧洲/大洋洲怎么样?",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:13:21 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3aptj",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080946-1",
-      "title": "gemini地区问题",
-      "summary": "国家/地区版本：美国付款资料是日本代理用日本或者美国都死活显示港币怎么搞",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:13:18 GMT",
-      "expiresAt": null,
-      "tags": [
-        "nodeseek"
-      ]
-    },
-    {
-      "id": "hf3ap2u",
-      "source": "nodeseek",
-      "sourceName": "NodeSeek · 福利",
-      "url": "https://www.nodeseek.com/post-1080945-1",
-      "title": "【nodequality】dedirock 12.88刀/年 Promo 1C 2G LA",
-      "summary": "💻基本信息++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[1m硬件质量体检报告：[36m107.173.*.*[0m[4mhttps://github.com/xykt/HardwareQuality",
-      "kind": "freebie",
-      "category": "vps",
-      "obtain": "conditional",
-      "imageUrl": null,
-      "publishedAt": "Wed, 25 Nov 2026 16:13:06 GMT",
+      "publishedAt": "Thu, 26 Nov 2026 01:08:00 GMT",
       "expiresAt": null,
       "tags": [
         "nodeseek"
